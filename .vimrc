@@ -1,0 +1,2 @@
+imap ;; <Esc>
+vmap ;; <Esc>
