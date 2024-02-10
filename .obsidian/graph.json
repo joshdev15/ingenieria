@@ -1,37 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "Ingeniería de Software",
-      "color": {
-        "a": 1,
-        "rgb": 1966335
-      }
-    },
-    {
-      "query": "Clases",
-      "color": {
-        "a": 1,
-        "rgb": 16744576
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.382421875,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.4989013671875,
-  "repelStrength": 10.00244140625,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 204,
-  "scale": 2.1225530071846643,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.6753554864094825,
+  "close": true
 }

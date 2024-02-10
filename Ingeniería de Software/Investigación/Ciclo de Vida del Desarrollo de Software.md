@@ -4,7 +4,8 @@ La misma es una herramienta de mapeo que ayuda a los desarrolladores en cada una
 
 Dentro del ciclo de vida se pueden encontrar las faces que lo componen, los cuales son:
 
-**Requisitos**: Documentos de Especificación de Requisitos de Software (DER - ERS)
+[[Requisitos]]:
+Documentos de Especificación de Requisitos de Software (DER - ERS)
 
 **Análisis**: --
 
