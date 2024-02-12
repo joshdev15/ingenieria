@@ -2,7 +2,7 @@ La definición de la ingeniería de software según ISO/IEC/IEEE es la siguiente
 
 Véase: [[SWEBOK_v3.pdf]]
 
-El (SEVOCAB) System and Software Engineering Vocabulary, define que la ingeniería es "La aplicación sistemática, disciplinada y cuantificable acercamiento al desarrollo, operación y mantenimiento de software."
+El (SEVOCAB) System and Software Engineering Vocabulary, define que la ingeniería es "La aplicación sistemática, disciplinada y cuantificable acercamiento al desarrollo, operación y mantenimiento de un software."
 
 A continuación se muestra información sobre el:
 

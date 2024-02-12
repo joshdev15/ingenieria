@@ -8,7 +8,7 @@
 		{"id":"42137edd473db285","type":"text","text":"Diseño","x":-438,"y":85,"width":250,"height":60},
 		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-438,"y":-35,"width":250,"height":60},
 		{"id":"14b9b1234ce59bc1","type":"text","text":"Requisitos","x":-438,"y":-155,"width":250,"height":60},
-		{"id":"479bb1e771c8896b","x":-1040,"y":-325,"width":400,"height":400,"type":"file","file":"Ingeniería de Software/Investigación/Especificación de Requisitos según el estándar de IEEE 830.pdf"}
+		{"id":"479bb1e771c8896b","type":"file","file":"Ingeniería de Software/Investigación/Especificación de Requisitos según el estándar de IEEE 830.pdf","x":-1040,"y":-325,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"6b6b14fcb242ce84","fromNode":"63b599331570bf0d","fromSide":"bottom","toNode":"14b9b1234ce59bc1","toSide":"top"},
