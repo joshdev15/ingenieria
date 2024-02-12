@@ -1,4 +1,4 @@
-	## Índice
+## Índice
 
 [[Ingeniería de Software]]
 
