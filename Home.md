@@ -3,6 +3,3 @@
 [[Ingeniería de Software]]
 
 [[Lógica]]
-
-
-
