@@ -1,8 +1,12 @@
 {
   "promptDelete": false,
-  "livePreview": true,
+  "livePreview": false,
   "showLineNumber": true,
   "vimMode": true,
   "showUnsupportedFiles": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "useTab": false
 }

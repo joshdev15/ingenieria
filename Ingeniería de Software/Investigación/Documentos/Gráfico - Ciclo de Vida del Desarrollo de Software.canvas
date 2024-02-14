@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"63b599331570bf0d","type":"text","text":"Ciclo de Vida del Desarrollo de Software","x":-526,"y":-320,"width":425,"height":50},
+		{"id":"01e379754a41a04d","type":"file","file":"Ingeniería de Software/Investigación/Documentos/SWEBOK_v3.pdf","x":-20,"y":-495,"width":400,"height":400},
+		{"id":"7195d38fb0736b6c","type":"text","text":"Pruebas","x":-438,"y":325,"width":250,"height":60},
+		{"id":"c84ac0312ddde331","type":"text","text":"Implementación","x":-438,"y":445,"width":250,"height":60},
+		{"id":"c23f2122eb0157de","type":"text","text":"Desarrollo","x":-438,"y":205,"width":250,"height":60},
+		{"id":"42137edd473db285","type":"text","text":"Diseño","x":-438,"y":85,"width":250,"height":60},
+		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-438,"y":-35,"width":250,"height":60},
+		{"id":"14b9b1234ce59bc1","type":"text","text":"Requisitos","x":-438,"y":-155,"width":250,"height":60},
+		{"id":"479bb1e771c8896b","type":"file","file":"Ingeniería de Software/Investigación/Documentos/Especificación de Requisitos según el estándar de IEEE 830.pdf","x":-1040,"y":-325,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"6b6b14fcb242ce84","fromNode":"63b599331570bf0d","fromSide":"bottom","toNode":"14b9b1234ce59bc1","toSide":"top"},
+		{"id":"1538d70bb0aa42c7","fromNode":"14b9b1234ce59bc1","fromSide":"bottom","toNode":"d01b14f728a78dde","toSide":"top"},
+		{"id":"5a5184edd0520e88","fromNode":"d01b14f728a78dde","fromSide":"bottom","toNode":"42137edd473db285","toSide":"top"},
+		{"id":"64d33d399c6daf30","fromNode":"42137edd473db285","fromSide":"bottom","toNode":"c23f2122eb0157de","toSide":"top"},
+		{"id":"cca0a3e44aa21346","fromNode":"c23f2122eb0157de","fromSide":"bottom","toNode":"7195d38fb0736b6c","toSide":"top"},
+		{"id":"47c6dbc11c65d572","fromNode":"7195d38fb0736b6c","fromSide":"bottom","toNode":"c84ac0312ddde331","toSide":"top"},
+		{"id":"eca97369052e2dd8","fromNode":"63b599331570bf0d","fromSide":"right","toNode":"01e379754a41a04d","toSide":"left"},
+		{"id":"fc418e8852b4209d","fromNode":"14b9b1234ce59bc1","fromSide":"left","toNode":"479bb1e771c8896b","toSide":"right"}
+	]
+}

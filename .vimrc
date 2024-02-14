@@ -1,6 +1,5 @@
 map ;; <Esc>
-nmap ;; <Esc>
 imap ;; <Esc>
+nmap ;; <Esc>
 vmap ;; <Esc>
-xmap ;; <Esc>
-
+unmap ;; <Esc>
