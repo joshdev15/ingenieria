@@ -13,24 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Documento/Sistemas Operativos Modernos.pdf"
-              }
-            }
-          },
-          {
-            "id": "93e566dd2dff97f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SistemasOperativos/Investigacion/Sistemas Operativos - Hilos.md",
-                "mode": "preview",
-                "source": false
+                "file": "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Sistemas Operativos - Hilos.md",
+                "file": "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Sistemas Operativos - Hilos.md",
+                "file": "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Sistemas Operativos - Hilos.md"
+                "file": "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf"
               }
             }
           }
@@ -159,11 +146,15 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "93e566dd2dff97f7",
+  "active": "324f893231320d56",
   "lastOpenFiles": [
-    "SistemasOperativos/Investigacion/Documento/Sistemas Operativos Modernos.pdf",
-    "SistemasOperativos/Investigacion/Sistemas Operativos - Hilos.md",
+    "Ingeniería de Software/Investigación/Documentos/Especificación de Requisitos según el estándar de IEEE 830.pdf",
+    "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf",
+    "SistemasOperativos/Investigacion/Documento/hilos-infografia.svg",
+    "SistemasOperativos/Investigacion/Hilos.md",
     "SistemasOperativos/Investigacion/Sistemas Operativos.md",
+    "SistemasOperativos/Investigacion/Documento/Sistemas Operativos Modernos.pdf",
+    "Home.md",
     "Ingeniería de Software/Investigación/Documentos/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas",
     "SistemasOperativos/Investigacion/Documento",
     "Ingeniería de Software/Investigación/Ingeniería de Software.md",
@@ -171,9 +162,7 @@
     "Ingeniería de Software/Investigación/Documentos/SWEBOK_v3.pdf",
     "Ingeniería de Software/Investigación/Documentos",
     "SistemasOperativos/Clases",
-    "Home.md",
     "README.md",
-    "Ingeniería de Software/Investigación/Documentos/Especificación de Requisitos según el estándar de IEEE 830.pdf",
     "Ingeniería de Software/Clases/2024-02-07.md",
     "Recording 20240210002832.webm",
     "Clean All/Tecnología Ágiles.md",
@@ -184,7 +173,6 @@
     "Clean All/Metodologías Limpias.md",
     "Matematica Aplicada/Investigación/Lógica.md",
     "Ingeniería de Software/Investigación/Requisitos.md",
-    "Clean All",
     "2024-02-09.md",
     "2024-02-08.md",
     "Ingeniería de Software/Investigación/General.md",

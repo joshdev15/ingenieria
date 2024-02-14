@@ -3,7 +3,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
   "translucency": true
