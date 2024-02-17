@@ -8,5 +8,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "foldHeading": true,
-  "useTab": false
+  "useTab": false,
+  "defaultViewMode": "preview"
 }
