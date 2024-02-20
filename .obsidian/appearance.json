@@ -1,10 +1,12 @@
 {
-  "accentColor": "#ffae00",
+  "accentColor": "#ffc800",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 16,
   "cssTheme": "Obsidian gruvbox",
   "nativeMenus": true,
-  "translucency": true
+  "translucency": true,
+  "baseFontSizeAction": false,
+  "showViewHeader": true
 }

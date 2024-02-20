@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a6ced13e224843",
+        "id": "07ec8ea2bdcfabd1",
         "type": "tabs",
         "children": [
           {
-            "id": "324f893231320d56",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf"
-              }
-            }
-          },
-          {
-            "id": "42697719b5dcb3f7",
+            "id": "35475b2f02064a9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Hilos.md",
+                "file": "Educación Física/Racismo en el Deporte.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,26 +43,26 @@
             }
           },
           {
-            "id": "4cf3a475490e7b5b",
+            "id": "d4f18b1091851c76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b0dc0ce9a7c127c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "226bbe210e5b9b5c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Hilos.md",
+                "file": "Educación Física/Racismo en el Deporte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,20 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Hilos.md",
+                "file": "Educación Física/Racismo en el Deporte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "3369106203bdc1cc",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -136,7 +114,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SistemasOperativos/Investigacion/Hilos.md"
+                "file": "Educación Física/Racismo en el Deporte.md"
+              }
+            }
+          },
+          {
+            "id": "c5a0a3a6f127d243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -149,49 +138,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Abrir la nota de hoy": false,
-      "canvas:Crear nuevo canvas": false,
+      "homepage:Open homepage": false,
       "graph:Abrir vista gráfica": false,
-      "switcher:Abrir selector rápido": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Crear nuevo canvas": true,
       "audio-recorder:Empezar/Parar de grabar": false,
-      "random-note:Abrir nota al azar": false,
-      "homepage:Open homepage": false
+      "switcher:Abrir selector rápido": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "42697719b5dcb3f7",
+  "active": "35475b2f02064a9a",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
+    "Educación Física/Racismo en el Deporte.md",
+    "Sistemas Operativos/Sistemas Operativos.md",
+    "Educación Física",
+    "Ingeniería/Ingeniería De Software/Ciclo de Vida del Desarrollo de Software.md",
+    "Ingeniería/Ingeniería De Software/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas",
+    "Matemática/Derivadas/Derivadas.md",
+    "Matemática/Matemática.md",
+    "Matemática/Derivadas",
+    "Ingeniería/Clases/2024-02-07.md",
+    "README.md",
+    "Sistemas Operativos/Hilos.md",
+    "Matemática/Lógica/Tabla de la Verdad.md",
+    "Matemática/Lógica/Negación (No).md",
+    "Matemática/Lógica/Disyunción (O).md",
+    "Matemática/Lógica/Conjunción (Y).md",
+    "Matemática/Lógica/Condicional (Entonces).md",
+    "Matemática/Lógica/Bicondicional (Sí y solo sí).md",
+    "Matemática/Lógica/Lógica.md",
+    "Ingeniería/Arquitectura de Software/Tecnologías Ágiles.md",
+    "Ingeniería/Arquitectura de Software/Metodologías Limpias.md",
+    "Ingeniería/Arquitectura de Software/Arquitectura de Software.md",
+    "Ingeniería/Ingeniería De Software/Ingeniería de Software.md",
+    "Ingeniería/Ingeniería De Software/Requisitos.md",
+    "Ingeniería/Arquitectura de Software/Metodología Limpia.md",
+    "Ingeniería/Arquitectura de Software",
+    "Matemática/Lógica",
+    "Matematica/Investigación/meta.md",
+    "SWEBOK_v3.pdf.md",
+    "SistemasOperativos/Investigacion/Documento/hilos-infografia.svg",
     "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf",
     "Ingeniería de Software/Investigación/Documentos/Especificación de Requisitos según el estándar de IEEE 830.pdf",
-    "SistemasOperativos/Investigacion/Documento/hilos-infografia.svg",
-    "SistemasOperativos/Investigacion/Hilos.md",
-    "SistemasOperativos/Investigacion/Sistemas Operativos.md",
     "SistemasOperativos/Investigacion/Documento/Sistemas Operativos Modernos.pdf",
-    "Ingeniería de Software/Investigación/Documentos/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas",
     "SistemasOperativos/Investigacion/Documento",
-    "Ingeniería de Software/Investigación/Ingeniería de Software.md",
-    "Ingeniería de Software/Investigación/Ciclo de Vida del Desarrollo de Software.md",
     "Ingeniería de Software/Investigación/Documentos/SWEBOK_v3.pdf",
     "Ingeniería de Software/Investigación/Documentos",
-    "SistemasOperativos/Clases",
-    "Ingeniería de Software/Clases/2024-02-07.md",
-    "Recording 20240210002832.webm",
-    "Clean All/Tecnología Ágiles.md",
-    "SistemasOperativos/Investigacion",
-    "SistemasOperativos",
     "202402092331.md",
-    "Hola.md",
-    "Clean All/Metodologías Limpias.md",
-    "Matematica Aplicada/Investigación/Lógica.md",
-    "Ingeniería de Software/Investigación/Requisitos.md",
-    "2024-02-09.md",
-    "2024-02-08.md",
-    "Ingeniería de Software/Investigación/General.md",
-    "Ingeniería de Software/2024-02-08.md",
-    "Matematica Aplicada/2024-02-08.md",
-    "Ingeniería de Software/Algo todavia mas nuevo.md",
-    "Ingeniería de Software/Algo nuevo.md"
+    "Hola.md"
   ]
 }

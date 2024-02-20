@@ -31,19 +31,18 @@ var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   vimrcPath: ".vimrc"
 };
-var MapMode = /* @__PURE__ */ ((MapMode2) => {
-  MapMode2["nmap"] = "normal";
-  MapMode2["vmap"] = "visual";
-  MapMode2["imap"] = "insert";
-  MapMode2["map"] = "map";
-  MapMode2["unmap"] = "unmap";
-  return MapMode2;
-})(MapMode || {});
+var MapMode = {
+  "nmap": "normal",
+  "vmap": "visual",
+  "imap": "insert",
+  "map": "general",
+  "nnoremap": "normal",
+  "vnoremap": "visual",
+  "inoremap": "insert",
+  "noremap": "general",
+  "unmap": "unmap"
+};
 var MiniVimrc = class extends import_obsidian.Plugin {
-  constructor() {
-    super(...arguments);
-    this.CodeMirrorVimObj = null;
-  }
   async process_vimrc() {
     if (this.vimrcPath) {
       const file = await this.read_file(this.vimrcPath);
@@ -55,7 +54,7 @@ var MiniVimrc = class extends import_obsidian.Plugin {
       new import_obsidian.Notice("Vimrc loaded!");
     }
   }
-  is_map(first_token) {
+  is_map_command(first_token) {
     return first_token in MapMode;
   }
   process_line(line) {
@@ -64,7 +63,7 @@ var MiniVimrc = class extends import_obsidian.Plugin {
       return;
     }
     const line_tokens = trimmed_line.split(" ");
-    if (this.is_map(line_tokens[0])) {
+    if (this.is_map_command(line_tokens[0])) {
       this.process_maps(line_tokens);
     } else {
       this.logger(`Could not process line "${line_tokens.join(" ")}". ${line_tokens[0]} is not a map or unmap command`);
@@ -83,11 +82,20 @@ var MiniVimrc = class extends import_obsidian.Plugin {
   set_vim_map(lhs, rhs, mode) {
     const cmo = this.CodeMirrorVimObj;
     this.logger(`set_vim_map: (${lhs} ${rhs} ${mode})`);
-    if (mode === "map" /* map */) {
+    if (mode === MapMode["map"]) {
       cmo.map(lhs, rhs);
       return;
     }
     cmo.map(lhs, rhs, mode);
+  }
+  set_vim_noremap(lhs, rhs, mode) {
+    const cmo = this.CodeMirrorVimObj;
+    this.logger(`set_vim_noremap: (${lhs} ${rhs} ${mode})`);
+    if (mode === MapMode["noremap"]) {
+      cmo.noremap(lhs, rhs);
+      return;
+    }
+    cmo.noremap(lhs, rhs, mode);
   }
   set_vim_unmap(lhs) {
     const cmo = this.CodeMirrorVimObj;
@@ -95,9 +103,8 @@ var MiniVimrc = class extends import_obsidian.Plugin {
     cmo.unmap(lhs);
   }
   async initialize() {
-    var _a;
     if (!this.CodeMirrorVimObj) {
-      this.CodeMirrorVimObj = (_a = window.CodeMirrorAdapter) == null ? void 0 : _a.Vim;
+      this.CodeMirrorVimObj = window.CodeMirrorAdapter.Vim;
     }
     if (this.settings.vimrcPath) {
       this.logger("Custom vimrc file path set.");
@@ -112,12 +119,16 @@ var MiniVimrc = class extends import_obsidian.Plugin {
     const mapMode = MapMode[line_tokens[0]].toString();
     const lhs = line_tokens[1];
     const rhs = line_tokens[2];
-    if (mapMode === "unmap" /* unmap */) {
+    if (mapMode === MapMode["unmap"]) {
       this.set_vim_unmap(lhs);
       return;
     }
     if (!lhs || !rhs) {
       this.logger(`Could not map line: ${line_tokens.join(" ")}. lhs or rhs not present`);
+      return;
+    }
+    if (line_tokens[0].endsWith("noremap")) {
+      this.set_vim_noremap(lhs, rhs, mapMode);
       return;
     }
     this.set_vim_map(lhs, rhs, mapMode);

@@ -1,37 +1,51 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
-  "showAttachments": true,
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "IngSw",
+      "query": "path:Ingeniería  ",
       "color": {
         "a": 1,
-        "rgb": 6184150
+        "rgb": 262399
       }
     },
     {
-      "query": "",
+      "query": "path:Matemática  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Sistemas Operativos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10424319
+      }
+    },
+    {
+      "query": "tag:#root  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.5005852658196426,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.501708984375,
+  "repelStrength": 13.9860026041667,
+  "linkStrength": 0,
+  "linkDistance": 350,
+  "scale": 0.5133945805665476,
+  "close": true
 }
