@@ -4,9 +4,9 @@
 		{"id":"c84ac0312ddde331","type":"text","text":"Implementación","x":-438,"y":445,"width":250,"height":60},
 		{"id":"c23f2122eb0157de","type":"text","text":"Desarrollo","x":-438,"y":205,"width":250,"height":60},
 		{"id":"42137edd473db285","type":"text","text":"Diseño","x":-438,"y":85,"width":250,"height":60},
-		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-438,"y":-35,"width":250,"height":60},
 		{"id":"14b9b1234ce59bc1","type":"text","text":"Requisitos","x":-438,"y":-155,"width":250,"height":60},
-		{"id":"63b599331570bf0d","type":"text","text":"Ciclo de Vida del Desarrollo de Software","x":-566,"y":-300,"width":506,"height":80}
+		{"id":"63b599331570bf0d","type":"text","text":"Ciclo de Vida del Desarrollo de Software","x":-566,"y":-300,"width":506,"height":80},
+		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-438,"y":-40,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"6b6b14fcb242ce84","fromNode":"63b599331570bf0d","fromSide":"bottom","toNode":"14b9b1234ce59bc1","toSide":"top"},

@@ -1,10 +1,10 @@
 {
-  "accentColor": "#ffc800",
+  "accentColor": "",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 16,
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Tokyo Night",
   "nativeMenus": true,
   "translucency": true,
   "baseFontSizeAction": false,

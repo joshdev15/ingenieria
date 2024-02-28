@@ -1,7 +1,6 @@
 ---
 isFirst: true
 ---
-
 #architecture
 
 Información sobre arquitectura de software
