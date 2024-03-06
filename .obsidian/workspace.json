@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3f8d962b07885f",
+        "id": "efd16cbe847c7631",
         "type": "tabs",
         "children": [
           {
-            "id": "6c445f82646997a4",
+            "id": "34614416d0e6eb76",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería/Ingeniería De Software/Repaso Rápido.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.500732421875,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "7620d840cb855b90",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ingeniería/Ingeniería De Software/Repaso Rápido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ingeniería/Ingeniería De Software/Repaso Rápido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ingeniería/Ingeniería De Software/Repaso Rápido.md"
+              }
             }
           },
           {
@@ -135,26 +142,31 @@
       "graph:Abrir vista gráfica": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "switcher:Abrir selector rápido": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "6c445f82646997a4",
+  "active": "34614416d0e6eb76",
   "lastOpenFiles": [
+    "Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md",
+    "Ingeniería/Ingeniería de Requisitos",
+    "Ingeniería/Clases/2024-02-07.md",
+    "Ingeniería/Ingeniería De Software/Ingeniería de Software.md",
+    "Ingeniería/Ingeniería De Software/Repaso Rápido.md",
+    "Ingeniería/Ingeniería De Software/Requisitos.md",
+    "Ingeniería/Ingeniería De Software/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas",
+    "Home.md",
+    "Matemática/Lógica/Condicional (Entonces).md",
+    "Matemática/Derivadas/Derivadas.md",
+    "Sistemas Operativos/Hilos.md",
+    "Sistemas Operativos/Sistemas Operativos.md",
+    "Ingeniería/Ingeniería De Software/Ciclo de Vida del Desarrollo de Software.md",
+    "Ingeniería/Arquitectura de Software/Arquitectura de Software.md",
+    "SWEBOK_v3.pdf.md",
     "Ingeniería/Arquitectura de Software/Metodologías Limpias.md",
     "Ingeniería/Arquitectura de Software/Tecnologías Ágiles.md",
-    "Ingeniería/Clases/2024-02-07.md",
-    "SWEBOK_v3.pdf.md",
-    "Ingeniería/Arquitectura de Software/Arquitectura de Software.md",
     "Educación Física/Racismo en el Deporte.md",
-    "Ingeniería/Ingeniería De Software/Ciclo de Vida del Desarrollo de Software.md",
-    "Home.md",
-    "Sistemas Operativos/Hilos.md",
-    "Ingeniería/Ingeniería De Software/Requisitos.md",
-    "Ingeniería/Ingeniería De Software/Ingeniería de Software.md",
-    "Ingeniería/Ingeniería De Software/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas",
-    "Sistemas Operativos/Sistemas Operativos.md",
     "Educación Física",
-    "Matemática/Derivadas/Derivadas.md",
     "Matemática/Matemática.md",
     "Matemática/Derivadas",
     "README.md",
@@ -162,20 +174,16 @@
     "Matemática/Lógica/Negación (No).md",
     "Matemática/Lógica/Disyunción (O).md",
     "Matemática/Lógica/Conjunción (Y).md",
-    "Matemática/Lógica/Condicional (Entonces).md",
     "Matemática/Lógica/Bicondicional (Sí y solo sí).md",
     "Matemática/Lógica/Lógica.md",
     "Ingeniería/Arquitectura de Software/Metodología Limpia.md",
     "Ingeniería/Arquitectura de Software",
     "Matemática/Lógica",
-    "Matematica/Investigación/meta.md",
     "SistemasOperativos/Investigacion/Documento/hilos-infografia.svg",
     "Ingeniería de Software/Investigación/Documentos/Elicitación.pdf",
     "Ingeniería de Software/Investigación/Documentos/Especificación de Requisitos según el estándar de IEEE 830.pdf",
     "SistemasOperativos/Investigacion/Documento/Sistemas Operativos Modernos.pdf",
     "SistemasOperativos/Investigacion/Documento",
-    "Ingeniería de Software/Investigación/Documentos/SWEBOK_v3.pdf",
-    "Ingeniería de Software/Investigación/Documentos",
-    "202402092331.md"
+    "Ingeniería de Software/Investigación/Documentos/SWEBOK_v3.pdf"
   ]
 }

@@ -1,19 +1,20 @@
 {
 	"nodes":[
-		{"id":"7195d38fb0736b6c","type":"text","text":"Pruebas","x":-438,"y":325,"width":250,"height":60},
-		{"id":"c84ac0312ddde331","type":"text","text":"Implementación","x":-438,"y":445,"width":250,"height":60},
-		{"id":"c23f2122eb0157de","type":"text","text":"Desarrollo","x":-438,"y":205,"width":250,"height":60},
-		{"id":"42137edd473db285","type":"text","text":"Diseño","x":-438,"y":85,"width":250,"height":60},
-		{"id":"14b9b1234ce59bc1","type":"text","text":"Requisitos","x":-438,"y":-155,"width":250,"height":60},
-		{"id":"63b599331570bf0d","type":"text","text":"Ciclo de Vida del Desarrollo de Software","x":-566,"y":-300,"width":506,"height":80},
-		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-438,"y":-40,"width":250,"height":60}
+		{"id":"63b599331570bf0d","type":"text","text":"Ciclo de Vida del Desarrollo de Software","x":-895,"y":-400,"width":560,"height":60},
+		{"id":"14b9b1234ce59bc1","type":"text","text":"Requisitos","x":-740,"y":-280,"width":250,"height":60},
+		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-740,"y":-160,"width":250,"height":60},
+		{"id":"42137edd473db285","type":"text","text":"Diseño","x":-740,"y":-40,"width":250,"height":60},
+		{"id":"c23f2122eb0157de","type":"text","text":"Desarrollo","x":-740,"y":80,"width":250,"height":60},
+		{"id":"7195d38fb0736b6c","type":"text","text":"Pruebas","x":-740,"y":200,"width":250,"height":60},
+		{"id":"c84ac0312ddde331","type":"text","text":"Implementación","x":-740,"y":320,"width":250,"height":60},
+		{"id":"dc3be36b08c39411","type":"text","text":"Ingeniería de Requísitos","x":-335,"y":-282,"width":503,"height":65},
+		{"id":"e5e0610bf2f0cf09","x":-208,"y":-160,"width":250,"height":60,"type":"text","text":"Fundamentales"},
+		{"id":"6d659bdbe8bbf66a","x":100,"y":-160,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4970fdba73c1f1fb","x":400,"y":-160,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
-		{"id":"6b6b14fcb242ce84","fromNode":"63b599331570bf0d","fromSide":"bottom","toNode":"14b9b1234ce59bc1","toSide":"top"},
-		{"id":"1538d70bb0aa42c7","fromNode":"14b9b1234ce59bc1","fromSide":"bottom","toNode":"d01b14f728a78dde","toSide":"top"},
-		{"id":"5a5184edd0520e88","fromNode":"d01b14f728a78dde","fromSide":"bottom","toNode":"42137edd473db285","toSide":"top"},
-		{"id":"64d33d399c6daf30","fromNode":"42137edd473db285","fromSide":"bottom","toNode":"c23f2122eb0157de","toSide":"top"},
-		{"id":"cca0a3e44aa21346","fromNode":"c23f2122eb0157de","fromSide":"bottom","toNode":"7195d38fb0736b6c","toSide":"top"},
-		{"id":"47c6dbc11c65d572","fromNode":"7195d38fb0736b6c","fromSide":"bottom","toNode":"c84ac0312ddde331","toSide":"top"}
+		{"id":"94db7bdb3422c6cd","fromNode":"63b599331570bf0d","fromSide":"bottom","toNode":"14b9b1234ce59bc1","toSide":"top"},
+		{"id":"0dd605fccb307a8e","fromNode":"14b9b1234ce59bc1","fromSide":"right","toNode":"dc3be36b08c39411","toSide":"left"},
+		{"id":"f1806ee5c77cf705","fromNode":"dc3be36b08c39411","fromSide":"bottom","toNode":"e5e0610bf2f0cf09","toSide":"top"}
 	]
 }
