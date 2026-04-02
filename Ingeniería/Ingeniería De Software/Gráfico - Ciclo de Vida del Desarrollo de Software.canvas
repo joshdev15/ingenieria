@@ -1,20 +1,23 @@
 {
 	"nodes":[
-		{"id":"63b599331570bf0d","type":"text","text":"Ciclo de Vida del Desarrollo de Software","x":-895,"y":-400,"width":560,"height":60},
-		{"id":"14b9b1234ce59bc1","type":"text","text":"Requisitos","x":-740,"y":-280,"width":250,"height":60},
-		{"id":"d01b14f728a78dde","type":"text","text":"Análisis","x":-740,"y":-160,"width":250,"height":60},
-		{"id":"42137edd473db285","type":"text","text":"Diseño","x":-740,"y":-40,"width":250,"height":60},
-		{"id":"c23f2122eb0157de","type":"text","text":"Desarrollo","x":-740,"y":80,"width":250,"height":60},
-		{"id":"7195d38fb0736b6c","type":"text","text":"Pruebas","x":-740,"y":200,"width":250,"height":60},
-		{"id":"c84ac0312ddde331","type":"text","text":"Implementación","x":-740,"y":320,"width":250,"height":60},
-		{"id":"dc3be36b08c39411","type":"text","text":"Ingeniería de Requísitos","x":-335,"y":-282,"width":503,"height":65},
-		{"id":"e5e0610bf2f0cf09","x":-208,"y":-160,"width":250,"height":60,"type":"text","text":"Fundamentales"},
-		{"id":"6d659bdbe8bbf66a","x":100,"y":-160,"width":250,"height":60,"type":"text","text":""},
-		{"id":"4970fdba73c1f1fb","x":400,"y":-160,"width":250,"height":60,"type":"text","text":""}
+		{"id":"req","type":"text","text":"1. REQUISITOS\n\n• Identificar necesidades del usuario\n• Documentar requisitos (DER/ERS)\n• Validar con stakeholders","x":-875,"y":-360,"width":250,"height":240},
+		{"id":"implementacion","type":"text","text":"6. IMPLEMENTACIÓN\n\n• Despliegue en producción\n• Capacitación de usuarios\n• Documentación final","x":-875,"y":-90,"width":250,"height":220},
+		{"id":"mantenimiento","type":"text","text":"7. MANTENIMIENTO\n\n• Soporte post-lanzamiento\n• Corrección de errores\n• Mejoras y actualizaciones","x":-875,"y":160,"width":250,"height":220},
+		{"id":"modelos","type":"text","text":"MODELOS DE SDLC\n\n• Cascada (lineal)\n• Iterativo (ciclos)\n• Incremental (entregas)\n• Espiral (riesgos)","x":-480,"y":165,"width":250,"height":210},
+		{"id":"pruebas","type":"text","text":"5. PRUEBAS\n\n• Pruebas unitarias, integración\n• Pruebas de sistema\n• Validación de requisitos","x":-480,"y":-80,"width":250,"height":200},
+		{"id":"analisis","type":"text","text":"2. ANÁLISIS\n\n• Estudiar requisitos\n• Definir comportamiento del sistema\n• Modelo de análisis, diagramas UML","x":-480,"y":-360,"width":250,"height":240},
+		{"id":"diseno","type":"text","text":"3. DISEÑO\n\n• Arquitectura del sistema\n• Diagramas técnicos\n• Especificación de componentes","x":-100,"y":-340,"width":250,"height":200},
+		{"id":"desarrollo","type":"text","text":"4. DESARROLLO\n\n• Implementación del código\n• Unit testing\n• Integración de componentes","x":-100,"y":-80,"width":250,"height":200},
+		{"id":"title","type":"text","text":"Ciclo de Vida del Desarrollo de Software (SDLC)","x":-875,"y":-540,"width":800,"height":60}
 	],
 	"edges":[
-		{"id":"94db7bdb3422c6cd","fromNode":"63b599331570bf0d","fromSide":"bottom","toNode":"14b9b1234ce59bc1","toSide":"top"},
-		{"id":"0dd605fccb307a8e","fromNode":"14b9b1234ce59bc1","fromSide":"right","toNode":"dc3be36b08c39411","toSide":"left"},
-		{"id":"f1806ee5c77cf705","fromNode":"dc3be36b08c39411","fromSide":"bottom","toNode":"e5e0610bf2f0cf09","toSide":"top"}
+		{"id":"e7","fromNode":"diseno","fromSide":"right","toNode":"desarrollo","toSide":"right"},
+		{"id":"e14","fromNode":"mantenimiento","fromSide":"right","toNode":"modelos","toSide":"left"},
+		{"id":"453627445138954d","fromNode":"analisis","fromSide":"right","toNode":"diseno","toSide":"left"},
+		{"id":"5558ad81bce51240","fromNode":"desarrollo","fromSide":"left","toNode":"pruebas","toSide":"right"},
+		{"id":"483c3fe61dc72a93","fromNode":"pruebas","fromSide":"left","toNode":"implementacion","toSide":"right"},
+		{"id":"263137b2a2042427","fromNode":"req","fromSide":"right","toNode":"analisis","toSide":"left"},
+		{"id":"11276dedaf86fe28","fromNode":"title","fromSide":"bottom","toNode":"req","toSide":"top"},
+		{"id":"6a275dcac0d5255c","fromNode":"implementacion","fromSide":"left","toNode":"mantenimiento","toSide":"left"}
 	]
 }

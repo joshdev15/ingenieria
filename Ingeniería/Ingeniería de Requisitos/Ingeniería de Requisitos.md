@@ -1,18 +1,31 @@
-**Definición:**
+---
+isFirst: true
+---
+#engineering
 
 La ingeniería de requerimientos es una disciplina que se enfoca en **comprender las necesidades** de los usuarios y otras partes interesadas, y **traducirlas en requisitos específicos** para el software. Es un proceso **iterativo e incremental** que involucra a diferentes personas y actividades.
 
-**Importancia:**
+## Índice
+
+### Fundamentos
+- [[Técnicas de Elicitación]] - Cómo recopilar requisitos
+
+### Documentación
+- [[Casos de Uso]] - Modelado de requisitos funcionales
+- [[Historias de Usuario]] - Formato ágil de requisitos
+- [[Documento de Requisitos]] - SRS según IEEE 830
+
+## Importancia
 
 Los requerimientos son la base fundamental del desarrollo de software. Unos **requerimientos bien definidos y documentados** son esenciales para asegurar que el software se desarrolle correctamente y satisfaga las expectativas de los usuarios.
 
-**Actividades de la ingeniería de requerimientos:**
+## Actividades de la ingeniería de requerimientos
 
-- **Elicitación:** Se recopilan los requisitos de las partes interesadas.
-- **Análisis:** Se analizan los requisitos para identificar inconsistencias, ambigüedades y omisiones.
-- **Especificación:** Se documentan los requisitos de forma clara y precisa.
-- **Validación:** Se verifica que los requisitos sean correctos y completos.
-- **Gestión:** Se controlan los cambios en los requisitos a lo largo del ciclo de vida del software.
+- **Elicitación:** Se recopilan los requisitos de las partes interesadas.
+- **Análisis:** Se analizan los requisitos para identificar inconsistencias, ambigüedades y omisiones.
+- **Especificación:** Se documentan los requisitos de forma clara y precisa.
+- **Validación:** Se verifica que los requisitos sean correctos y completos.
+- **Gestión:** Se controlan los cambios en los requisitos a lo largo del ciclo de vida del software.
 
 **Buenas prácticas para la gestión de requerimientos:**
 

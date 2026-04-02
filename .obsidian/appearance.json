@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "interfaceFontFamily": "Inter",
+  "accentColor": "#8066ff",
+  "interfaceFontFamily": "Roboto",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 16,

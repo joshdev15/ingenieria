@@ -1,14 +1,16 @@
 {
   "promptDelete": false,
-  "livePreview": true,
+  "livePreview": false,
   "showLineNumber": true,
   "vimMode": true,
   "showUnsupportedFiles": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
-  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
   "foldHeading": true,
   "useTab": false,
   "defaultViewMode": "source",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "spellcheck": true,
+  "tabSize": 4
 }

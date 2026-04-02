@@ -5,47 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Ingeniería  ",
       "color": {
         "a": 1,
-        "rgb": 262399
+        "rgb": 255
       }
     },
     {
       "query": "path:Matemática  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 8388608
       }
     },
     {
-      "query": "path:\"Sistemas Operativos\"  ",
+      "query": "path:Sistemas\\ Operativos  ",
       "color": {
         "a": 1,
-        "rgb": 10424319
+        "rgb": 65280
       }
     },
     {
       "query": "tag:#root  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16644317
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.4,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.501708984375,
-  "repelStrength": 13.9860026041667,
-  "linkStrength": 0,
-  "linkDistance": 350,
-  "scale": 0.5991430085138123,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9391911222676769,
   "close": true
 }

@@ -3,59 +3,36 @@
 Una tabla de la verdad es una herramienta que se usa en la lógica
 para evaluar si una proposición compuesta es verdadera.
 
-En la siguiente tabla evaluaremos la proposición compuesta se
-evaluará:
+En la siguiente tabla evaluaremos la proposición compuesta.
 
-**p**: Está lloviendo
-**q**: El suelo está mojado
+Se evaluará:
 
-```dataviewjs
-const data = {
-    p: ['verdadero', 'verdadero', 'falso', 'falso'],
-    q: ['verdadero', 'falso', 'verdadero', 'falso'],
-    "p -> q": ['verdadero', 'falso', 'verdadero', 'verdadero']
-}
+- **p**: Está lloviendo
+- **q**: El suelo está mojado
 
-const rows = []
-for (let i = 0; i < data.p.length; i++) {
-    const p = data.p[i];
-    const q = data.q[i];
-    const pq = data["p -> q"][i];
-    rows.push([p, q, pq])
-}
+## Ejemplo: p → q
 
-dv.table(
-    Object.keys(data),
-    rows 
-)
-```
+| p | q | p → q |
+|---|---|-------|
+| verdadero | verdadero | verdadero |
+| verdadero | falso | falso |
+| falso | verdadero | verdadero |
+| falso | falso | verdadero |
 
 ## Simbología de la tabla de la verdad
 
 En una tabla de la verdad se hacen evaluaciones sobre proposiciones
-lógicas, por tanto, existen los operadores lógicos
+lógicas, por tanto, existen los operadores lógicos:
 
-```dataviewjs
-const data = {
-    Operación: ['NO', 'Y', 'O', 'Entonces', 'Si y solo Si'],
-    Simbolos: ['¬, ~', '∧', 'v', '->', '<->'],
-}
+| Operación | Símbolos |
+|-----------|----------|
+| NO | ¬, ~ |
+| Y | ∧ |
+| O | ∨ |
+| Entonces | → |
+| Si y solo sí | ↔ |
 
-const rows = []
-for (let i = 0; i < data['Operación'].length; i++) {
-    const p = data['Operación'][i];
-    const q = data['Simbolos'][i];
-    rows.push([p, q ])
-}
-
-dv.table(
-    Object.keys(data),
-    rows 
-)
-```
-
-
-a continuación veremos una tabla de la verdad por operación:
+A continuación veremos una tabla de la verdad por operación:
 
 [[Negación (No)]]
 [[Conjunción (Y)]]
