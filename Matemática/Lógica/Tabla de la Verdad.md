@@ -34,8 +34,8 @@ lógicas, por tanto, existen los operadores lógicos:
 
 A continuación veremos una tabla de la verdad por operación:
 
-[[Negación (No)]]
-[[Conjunción (Y)]]
-[[Disyunción (O)]]
-[[Condicional (Entonces)]]
-[[Bicondicional (Sí y solo sí)]]
+[[Matemática/Lógica/Negación (No).md]]
+[[Matemática/Lógica/Conjunción (Y).md]]
+[[Matemática/Lógica/Disyunción (O).md]]
+[[Matemática/Lógica/Condicional (Entonces).md]]
+[[Matemática/Lógica/Bicondicional (Sí y solo sí).md]]

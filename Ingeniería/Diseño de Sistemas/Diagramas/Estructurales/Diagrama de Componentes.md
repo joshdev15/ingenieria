@@ -73,4 +73,4 @@ El diagrama de componentes muestra la estructura del sistema en términos de sus
 - **Diagrama de Despliegue**: Muestra dónde se ejecutan los componentes
 - **Diagrama de Clases**: Define la estructura de cada componente
 
-[[index|← Volver a Estructurales]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/index.md]]

@@ -11,21 +11,14 @@
       "query": "path:Ingeniería  ",
       "color": {
         "a": 1,
-        "rgb": 255
+        "rgb": 5276667
       }
     },
     {
       "query": "path:Matemática  ",
       "color": {
         "a": 1,
-        "rgb": 8388608
-      }
-    },
-    {
-      "query": "path:Sistemas\\ Operativos  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
+        "rgb": 14944114
       }
     },
     {
@@ -34,18 +27,32 @@
         "a": 1,
         "rgb": 16644317
       }
+    },
+    {
+      "query": "path:\"Sistemas Operativos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Desarrollo de Software\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14325797
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.763685042134831,
+  "lineSizeMultiplier": 0.730995435393258,
+  "collapse-forces": false,
+  "centerStrength": 0.0174683988764045,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.9391911222676769,
+  "linkDistance": 500,
+  "scale": 0.0467161317691268,
   "close": true
 }

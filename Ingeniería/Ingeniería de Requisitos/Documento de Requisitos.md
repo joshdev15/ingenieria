@@ -49,5 +49,5 @@ El Documento de Especificación de Requisitos de Software (SRS - Software Requir
 4. **Relevantes**: Para el negocio
 5. **Trazables**: Identificar fuente
 
-[[Ingeniería de Requisitos]]
-[[Casos de Uso]]
+[[Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md]]
+[[Ingeniería/Ingeniería de Requisitos/Casos de Uso.md]]

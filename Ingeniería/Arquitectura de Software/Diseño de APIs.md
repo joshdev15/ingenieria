@@ -144,4 +144,4 @@ service UserService {
 - GraphQL Schema para GraphQL
 - Protocol Buffers para gRPC
 
-[[Arquitectura de Software]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md]]

@@ -43,4 +43,4 @@ La elicitación de requisitos es el proceso de descubrir las necesidades y expec
 - No validar los requisitos con los usuarios
 - Congelar requisitos muy temprano
 
-[[Ingeniería de Requisitos]]
+[[Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md]]

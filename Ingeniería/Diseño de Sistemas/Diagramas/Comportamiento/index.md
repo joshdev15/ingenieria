@@ -1,13 +1,15 @@
 #engineering #uml #system-design
 
-Los diagramas de comportamiento muestran cómo el sistema responde a estímulos.
+Los diagramas de comportamiento muestran como el sistema responde a estimulos.
 
-## Índice
+## Indice
 
-- [[Diagrama de Casos de Uso]] - Funcionalidades desde perspectiva del usuario
-- [[Diagrama de Secuencia]] - Interacciones ordenadas en el tiempo
-- [[Diagrama de Actividad]] - Flujos de trabajo y procesos
-- [[Diagrama de Estados]] - Estados de un objeto y transiciones
+.
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/index.md|index.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Actividad.md|Diagrama de Actividad.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Casos de Uso.md|Diagrama de Casos de Uso.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Estados.md|Diagrama de Estados.md]]
+└── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Secuencia.md|Diagrama de Secuencia.md]]
 
 ---
 
@@ -16,30 +18,30 @@ Los diagramas de comportamiento muestran cómo el sistema responde a estímulos.
 Muestra las funcionalidades del sistema desde la perspectiva del usuario.
 
 ```
-    ┌──────────────┐
-    │   Actor      │  ← Usuario externo
-    └──────────────┘
-          │
-          │
-    ┌─────▼─────┐
-    │   Caso    │  ← Funcionalidad
-    │   de Uso  │
-    └───────────┘
+     ┌──────────────┐
+     │   Actor      │  ← Usuario externo
+     └──────────────┘
+           │
+           │
+     ┌─────▼─────┐
+     │   Caso    │  ← Funcionalidad
+     │   de Uso  │
+     └───────────┘
 ```
 
 ### Relaciones entre Casos de Uso
 
-| Relación | Símbolo | Descripción |
+| Relacion | Simbolo | Descripcion |
 |----------|---------|-------------|
 | **Include** | <<include>> | Obligatorio |
 | **Extend** | <<extend>> | Opcional |
-| **Generalización** | △ | Herencia |
+| **Generalizacion** | △ | Herencia |
 
 ---
 
 ## Diagrama de Secuencia
 
-Muestra cómo los objetos interactúan en el tiempo.
+Muestra como los objetos interactuan en el tiempo.
 
 ```
 Usuario          LoginService          Database
@@ -63,7 +65,7 @@ Usuario          LoginService          Database
 ┌────────────┐
 │  Objeto    │  ← lifeline
 ├────────────┤
-│  método()  │  ← mensaje sincrono
+│  metodo()  │  ← mensaje sincrono
 │────────────│
 │  return    │  ← mensaje de retorno
 └────────────┘
@@ -95,14 +97,14 @@ Muestra flujos de trabajo (procesos de negocio).
     └────────┘
 ```
 
-### Símbolos
+### Simbolos
 
-| Símbolo | Significado |
+| Simbolo | Significado |
 |---------|-------------|
 | ○ | Nodo inicial |
 | ● | Nodo final |
 | ▭ | Actividad |
-| ◇ | Decisión |
+| ◇ | Decision |
 | → | Flujo |
 
 ---
@@ -112,11 +114,11 @@ Muestra flujos de trabajo (procesos de negocio).
 Muestra los estados de un objeto y las transiciones.
 
 ```
-                            ┌───────────────┐
-          ┌─────────────────│   Pendiente   │
-          │                 └───────┬───────┘
-          │                         │
-          ▼                         ▼
+                             ┌───────────────┐
+           ┌─────────────────│   Pendiente   │
+           │                 └───────┬───────┘
+           │                         │
+           ▼                         ▼
 ┌─────────────────┐           ┌───────────────┐
 │  Cancelado      │ ←──────── │  Procesando   │
 └────────┬────────┘           └───────┬───────┘
@@ -127,7 +129,7 @@ Muestra los estados de un objeto y las transiciones.
          │                           │
          │                     ┌─────▼─────┐
          └─────────────────────│ Entregado│
-                                └───────────┘
+                                 └───────────┘
 ```
 
-[[Diagramas UML]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Diagramas UML.md|<- Volver a Diagramas UML]]

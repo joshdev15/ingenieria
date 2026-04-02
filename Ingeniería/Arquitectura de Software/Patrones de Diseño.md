@@ -105,4 +105,4 @@ fun main() {
 - **Sí**: Problemas recurrentes, equipos grandes, código mantenible
 - **No**: Sobreingeniería, proyectos pequeños, código complejo innecesario
 
-[[Arquitectura de Software]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md]]

@@ -75,4 +75,4 @@ det(Ay) = 2×1 - 5×3 = 2 - 15 = -13
 - Gauss-Jordan: O(n³) - más eficiente computacionalmente
 - Cramer: Conceptualmente simple pero lento
 
-[[Matrices]]
+[[Matemática/Investigación de Operaciones/Matrices.md]]

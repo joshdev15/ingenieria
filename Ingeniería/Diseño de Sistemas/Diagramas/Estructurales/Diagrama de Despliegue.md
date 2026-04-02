@@ -79,4 +79,4 @@ El diagrama de despliegue muestra la distribución física del sistema, represen
 - **Diagrama de Componentes**: Muestra qué componentes van en cada nodo
 - **Diagrama de Clases**: Define los objetos que se almacenan en BD
 
-[[index|← Volver a Estructurales]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/index.md]]

@@ -57,4 +57,4 @@ Requisitos → Diseño → Implementación → Verificación → Mantenimiento
 | Requisitos | Fijos | Cambian |
 | Riesgos | Tardíos | Tempranos |
 
-[[Gestión de Proyectos]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]

@@ -33,4 +33,4 @@ Escalar k = 3:
 4. **Neutro**: $1 \cdot A = A$
 5. **Cero**: $0 \cdot A = 0$ (matriz cero)
 
-[[Matrices]]
+[[Matemática/Investigación de Operaciones/Matrices.md]]

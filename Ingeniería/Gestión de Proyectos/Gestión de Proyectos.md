@@ -3,40 +3,38 @@ isFirst: true
 ---
 #engineering #project-management
 
-La gestión de proyectos es la disciplina de planificar, organizar y controlar los recursos para lograr objetivos específicos.
+La gestion de proyectos es la disciplina de planificar, organizar y controlar los recursos para lograr objetivos especificos.
 
-## Índice
+## Indice
 
-### Metodologías
-- [[Metodologías/Scrum|Scrum]] - Framework ágil iterativo
-- [[Metodologías/Kanban|Kanban]] - Sistema de flujo continuo
-- [[Metodologías/XP|XP]] - Extreme Programming
-- [[Metodologías/Lean|Lean]] - Desarrollo Lean
-- [[Metodologías/Waterfall|Waterfall]] - Modelo en cascada
-- [[Metodologías/PRINCE2|PRINCE2]] - Proyectos controlados
-- [[Metodologías/PMBOK|PMBOK]] - Guía de mejores prácticas
-- [[Metodologías/Híbrido|Híbrido]] - Combinación agile + tradicional
-- [[Metodologías/Six Sigma|Six Sigma]] - Mejora de calidad DMAIC
-
-### Herramientas
-- [[Herramientas/Herramientas de Gestión|Resumen de Herramientas]]
-- [[Herramientas/Jira|Jira]]
-- [[Herramientas/Asana|Asana]]
-- [[Herramientas/Trello|Trello]]
-- [[Herramientas/Notion|Notion]]
-- [[Herramientas/Linear|Linear]]
-- [[Herramientas/Comparativa Herramientas|Comparativa]]
-
-### Fundamentos
-- [[Gestión de Proyectos]] - Este archivo
+.
+├── [[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|Gestión de Proyectos.md]]
+├── Herramientas
+│   ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Asana.md|Asana.md]]
+│   ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Comparativa Herramientas.md|Comparativa Herramientas.md]]
+│   ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md|Herramientas de Gestión.md]]
+│   ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Jira.md|Jira.md]]
+│   ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Linear.md|Linear.md]]
+│   ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Notion.md|Notion.md]]
+│   └── [[Ingeniería/Gestión de Proyectos/Herramientas/Trello.md|Trello.md]]
+└── Metodologías
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/Híbrido.md|Híbrido.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/Kanban.md|Kanban.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/Lean.md|Lean.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/PMBOK.md|PMBOK.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/PRINCE2.md|PRINCE2.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/Scrum.md|Scrum.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/Six Sigma.md|Six Sigma.md]]
+    ├── [[Ingeniería/Gestión de Proyectos/Metodologías/Waterfall.md|Waterfall.md]]
+    └── [[Ingeniería/Gestión de Proyectos/Metodologías/XP.md|XP.md]]
 
 ## Importancia
 
-Una buena gestión de proyectos permite:
+Una buena gestion de proyectos permite:
 - Cumplir plazos y presupuestos
 - Asignar recursos de forma eficiente
 - Mitigar riesgos
-- Mejorar la comunicación del equipo
+- Mejorar la comunicacion del equipo
 
 ## Roles Comunes
 
@@ -44,16 +42,16 @@ Una buena gestión de proyectos permite:
 |-----|-----------------|
 | **Project Manager** | Liderar el proyecto, gestionar recursos |
 | **Product Owner** | Definir y priorizar el backlog |
-| **Scrum Master** | Facilitar el proceso ágil |
+| **Scrum Master** | Facilitar el proceso agil |
 | **Team Member** | Ejecutar las tareas del sprint |
 
-## Áreas de Conocimiento
+## Areas de Conocimiento
 
-- Gestión de alcance
-- Gestión de tiempo
-- Gestión de costos
-- Gestión de calidad
-- Gestión de riesgos
-- Gestión de comunicaciones
+- Gestion de alcance
+- Gestion de tiempo
+- Gestion de costos
+- Gestion de calidad
+- Gestion de riesgos
+- Gestion de comunicaciones
 
-[[Ingeniería de Software]]
+[[Ingeniería/Ingeniería De Software/Ingeniería de Software.md|<- Volver a Ingeniería de Software]]

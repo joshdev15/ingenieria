@@ -3,47 +3,48 @@ isFirst: true
 ---
 #engineering #system-design
 
-El diseño de sistemas es el proceso de definir la arquitectura, componentes y relaciones de un sistema de software.
+El diseno de sistemas es el proceso de definir la arquitectura, componentes y relaciones de un sistema de software.
 
-## Índice
+## Indice
 
-### Fundamentos
-- [[Diseño de Sistemas]] - Este archivo
-- [[Principios de Diseño]]
-
-### Diagramas UML
-- [[Diagramas/Diagramas UML|Introducción UML]]
-- [[Diagramas/Estructurales/index|Diagramas Estructurales]]
-  - [[Diagramas/Estructurales/Diagrama de Clases|Clases]]
-  - [[Diagramas/Estructurales/Diagrama de Componentes|Componentes]]
-  - [[Diagramas/Estructurales/Diagrama de Despliegue|Despliegue]]
-  - [[Diagramas/Estructurales/Diagrama de Paquetes|Paquetes]]
-- [[Diagramas/Comportamiento/index|Diagramas de Comportamiento]]
-  - [[Diagramas/Comportamiento/Diagrama de Casos de Uso|Casos de Uso]]
-  - [[Diagramas/Comportamiento/Diagrama de Secuencia|Secuencia]]
-  - [[Diagramas/Comportamiento/Diagrama de Actividad|Actividad]]
-  - [[Diagramas/Comportamiento/Diagrama de Estados|Estados]]
-
-### Herramientas
-- [[Herramientas/Herramientas de Diagramación|Resumen de Herramientas]]
-- [[Herramientas/Draw.io|Draw.io]] - Visual, gratuito
-- [[Herramientas/PlantUML|PlantUML]] - Código, UML
-- [[Herramientas/Mermaid|Mermaid]] - Markdown integrado
-- [[Herramientas/Miro|Miro]] - Colaborativo
-- [[Herramientas/Lucidchart|Lucidchart]] - Profesional
+.
+├── Diagramas
+│   ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Diagramas UML.md|Diagramas UML.md]]
+│   └── Comportamiento
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Actividad.md|Diagrama de Actividad.md]]
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Casos de Uso.md|Diagrama de Casos de Uso.md]]
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Estados.md|Diagrama de Estados.md]]
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/Diagrama de Secuencia.md|Diagrama de Secuencia.md]]
+│       └── [[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/index.md|index.md]]
+├── Diagramas
+│   └── Estructurales
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Clases.md|Diagrama de Clases.md]]
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Componentes.md|Diagrama de Componentes.md]]
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Despliegue.md|Diagrama de Despliegue.md]]
+│       ├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Paquetes.md|Diagrama de Paquetes.md]]
+│       └── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/index.md|index.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diseño de Sistemas.md|Diseño de Sistemas.md]]
+├── Herramientas
+│   ├── [[Ingeniería/Diseño de Sistemas/Herramientas/Herramientas de Diagramación.md|Herramientas de Diagramación.md]]
+│   ├── [[Ingeniería/Diseño de Sistemas/Herramientas/Draw.io.md|Draw.io.md]]
+│   ├── [[Ingeniería/Diseño de Sistemas/Herramientas/Lucidchart.md|Lucidchart.md]]
+│   ├── [[Ingeniería/Diseño de Sistemas/Herramientas/Mermaid.md|Mermaid.md]]
+│   ├── [[Ingeniería/Diseño de Sistemas/Herramientas/Miro.md|Miro.md]]
+│   └── [[Ingeniería/Diseño de Sistemas/Herramientas/PlantUML.md|PlantUML.md]]
+└── [[Ingeniería/Diseño de Sistemas/Principios de Diseño.md|Principios de Diseño.md]]
 
 ## Importancia
 
 - Define la estructura del sistema antes de codificar
-- Facilita la comunicación entre equipos
+- Facilita la comunicacion entre equipos
 - Identifica problemas temprano
-- Documenta decisiones arquitectónicas
+- Documenta decisiones arquitectonicas
 
 ## Proceso
 
-1. **Requisitos** → Entender qué debe hacer el sistema
-2. **Análisis** → Identificar componentes y relaciones
-3. **Diseño** → Definir arquitectura y detalles
-4. **Documentación** → Crear diagramas y especificaciones
+1. **Requisitos** → Entender que debe hacer el sistema
+2. **Analisis** → Identificar componentes y relaciones
+3. **Diseno** → Definir arquitectura y detalles
+4. **Documentacion** → Crear diagramas y especificaciones
 
-[[Arquitectura de Software]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md|<- Volver a Arquitectura de Software]]

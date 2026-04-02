@@ -50,4 +50,4 @@ Board: Proyecto Web
 - Preferir simplicidad sobre features
 - Visibilidad del flujo de trabajo
 
-[[Herramientas de Gestión]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]

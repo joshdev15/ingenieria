@@ -54,4 +54,4 @@ Puedes personalizar los estados y transiciones.
 4. Actualizar tareas diariamente
 5. Revisar y cerrar
 
-[[Herramientas de Gestión]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]

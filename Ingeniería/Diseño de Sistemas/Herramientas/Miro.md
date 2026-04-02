@@ -44,4 +44,4 @@ Miro es una pizarra colaborativa online para diagramación y brainstorming.
 - Figma, Sketch
 - Google Drive, OneDrive
 
-[[Herramientas de Diagramación]]
+[[Ingeniería/Diseño de Sistemas/Herramientas/Herramientas de Diagramación.md]]

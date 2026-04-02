@@ -1,32 +1,25 @@
 #engineering #project-management #tools
 
-Las herramientas de gestión de proyectos facilitan la planificación, seguimiento y colaboración del equipo.
+Las herramientas de gestion de proyectos facilitan la planificacion, seguimiento y colaboracion del equipo.
 
-## Índice
+## Indice
 
-- [[Herramientas de Gestión]] - Este archivo
+.
+├── [[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md|Herramientas de Gestión.md]]
+├── [[Ingeniería/Gestión de Proyectos/Herramientas/Asana.md|Asana.md]]
+├── [[Ingeniería/Gestión de Proyectos/Herramientas/Comparativa Herramientas.md|Comparativa Herramientas.md]]
+├── [[Ingeniería/Gestión de Proyectos/Herramientas/Jira.md|Jira.md]]
+├── [[Ingeniería/Gestión de Proyectos/Herramientas/Linear.md|Linear.md]]
+├── [[Ingeniería/Gestión de Proyectos/Herramientas/Notion.md|Notion.md]]
+└── [[Ingeniería/Gestión de Proyectos/Herramientas/Trello.md|Trello.md]]
 
-### Full-featured
-- [[Jira]] - Enterprise, configurable, para equipos grandes
-- [[Asana]] - Flexible, múltiples vistas, equipos diversos
+## Categorias de Herramientas
 
-### Simples / Minimalistas
-- [[Trello]] - Kanban simple, intuitivo
-- [[Linear]] - Developer-first, rápido
-
-### Todo-en-uno
-- [[Notion]] - Notas + bases de datos + proyectos
-
-### Comparativa
-- [[Comparativa Herramientas]] - Tabla comparativa general
-
-## Categorías de Herramientas
-
-| Tipo | Descripción | Ejemplos |
+| Tipo | Descripcion | Ejemplos |
 |------|------------|----------|
 | **Full-featured** | Todo en uno, configurable | Jira, Asana |
 | **Simples** | Tableros visuales, minimalistas | Trello, Linear |
-| **Wiki + Proyecto** | Documentación + tareas | Notion, Confluence |
-| **Specializadas** | Para industria específica | Monday, ClickUp |
+| **Wiki + Proyecto** | Documentacion + tareas | Notion, Confluence |
+| **Especializadas** | Para industria especifica | Monday, ClickUp |
 
-[[Gestión de Proyectos]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|<- Volver a Gestión de Proyectos]]

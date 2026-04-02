@@ -44,4 +44,4 @@ Draw.io (diagrams.net) es una herramienta gratuita de diagramación visual.
 - Puede ser lento para diagramas muy grandes
 - No es colaborativo en tiempo real (versión gratuita)
 
-[[Herramientas de Diagramación]]
+[[Ingeniería/Diseño de Sistemas/Herramientas/Herramientas de Diagramación.md]]

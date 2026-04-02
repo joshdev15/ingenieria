@@ -77,4 +77,4 @@ stop
 - Menos intuitivo que visual
 - Debugging de errores difícil
 
-[[Herramientas de Diagramación]]
+[[Ingeniería/Diseño de Sistemas/Herramientas/Herramientas de Diagramación.md]]

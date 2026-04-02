@@ -120,4 +120,4 @@ func (c *OrderController) CreateOrder(w http.ResponseWriter, r *http.Request) {
 └──────────────────────────────────────┘
 ```
 
-[[Comportamiento/index|← Volver a Comportamiento]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/index.md]]

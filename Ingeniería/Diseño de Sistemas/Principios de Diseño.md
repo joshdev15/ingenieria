@@ -104,4 +104,4 @@ No implementar funciones por anticipado.
 ### CoC (Convention over Configuration)
 Usar convenciones en lugar de configuraciones.
 
-[[Diseño de Sistemas]]
+[[Ingeniería/Diseño de Sistemas/Diseño de Sistemas.md]]

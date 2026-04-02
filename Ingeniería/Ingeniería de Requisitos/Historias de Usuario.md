@@ -47,4 +47,4 @@ Criterios de aceptación:
 - Pueden ser ambiguas sin criterios claros
 - No suited para requisitos complejos
 
-[[Ingeniería de Requisitos]]
+[[Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md]]

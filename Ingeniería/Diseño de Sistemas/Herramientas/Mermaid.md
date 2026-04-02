@@ -63,4 +63,4 @@ classDiagram
 - Menos flexible que visual
 - diagrams limitado vs PlantUML
 
-[[Herramientas de Diagramación]]
+[[Ingeniería/Diseño de Sistemas/Herramientas/Herramientas de Diagramación.md]]

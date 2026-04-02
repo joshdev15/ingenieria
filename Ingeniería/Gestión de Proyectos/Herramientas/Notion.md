@@ -71,4 +71,4 @@ Propiedades:
 - Knowledge management centralizado
 - Sistemas personalizados
 
-[[Herramientas de Gestión]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]

@@ -109,4 +109,4 @@ Ejemplo:
 
 El `H` (historial) vuelve al último subestado activo.
 
-[[Comportamiento/index|← Volver a Comportamiento]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/index.md]]

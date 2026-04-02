@@ -42,4 +42,4 @@ Cada iteración (1-2 semanas) incluye:
 | Roles | + engineer practices | Roles definidos |
 | Testing | TDD obligatorio | Opcional |
 
-[[Gestión de Proyectos]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]

@@ -65,4 +65,4 @@ Formulario: Solicitud de Bug
 | Goals | ✅ nativo | ❌ No |
 | Formularios | ✅ nativo | ⚠️ Limitado |
 
-[[Herramientas de Gestión]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]

@@ -3,26 +3,26 @@ isFirst: true
 ---
 #math
 
-## Índice
+## Indice
 
-### Lógica
-- [[Lógica]] - Fundamentos de lógica proposicional
-- [[Tabla de la Verdad]]
-- [[Negación (No)]]
-- [[Conjunción (Y)]]
-- [[Disyunción (O)]]
-- [[Condicional (Entonces)]]
-- [[Bicondicional (Sí y solo sí)]]
-
-### Investigación de Operaciones
-- [[Matrices]] - Introducción a matrices
-- [[Suma]] - Suma de matrices
-- [[Resta]] - Resta de matrices
-- [[Escalar]] - Multiplicación por escalar
-- [[Producto]] - Multiplicación de matrices
-- [[Determinante]] - Cálculo de determinantes
-- [[Gauss Jordan]] - Método de resolución de sistemas
-- [[Cramer]] - Regla de Cramer
-
-### Cálculo
-- [[Derivadas]] - Fundamentos de derivadas
+.
+├── [[Matemática/Matemática.md|Matemática.md]]
+├── Derivadas
+│   └── [[Matemática/Derivadas/Derivadas.md|Derivadas.md]]
+└── Lógica
+    ├── [[Matemática/Lógica/Lógica.md|Lógica.md]]
+    ├── [[Matemática/Lógica/Tabla de la Verdad.md|Tabla de la Verdad.md]]
+    ├── [[Matemática/Lógica/Bicondicional (Sí y solo sí).md|Bicondicional (Sí y solo sí).md]]
+    ├── [[Matemática/Lógica/Condicional (Entonces).md|Condicional (Entonces).md]]
+    ├── [[Matemática/Lógica/Conjunción (Y).md|Conjunción (Y).md]]
+    ├── [[Matemática/Lógica/Disyunción (O).md|Disyunción (O).md]]
+    └── [[Matemática/Lógica/Negación (No).md|Negación (No).md]]
+└── Investigación de Operaciones
+    ├── [[Matemática/Investigación de Operaciones/Matrices.md|Matrices.md]]
+    ├── [[Matemática/Investigación de Operaciones/Cramer.md|Cramer.md]]
+    ├── [[Matemática/Investigación de Operaciones/Determinante.md|Determinante.md]]
+    ├── [[Matemática/Investigación de Operaciones/Escalar.md|Escalar.md]]
+    ├── [[Matemática/Investigación de Operaciones/Gauss Jordan.md|Gauss Jordan.md]]
+    ├── [[Matemática/Investigación de Operaciones/Producto.md|Producto.md]]
+    ├── [[Matemática/Investigación de Operaciones/Resta.md|Resta.md]]
+    └── [[Matemática/Investigación de Operaciones/Suma.md|Suma.md]]

@@ -91,4 +91,4 @@ El diagrama de paquetes organiza los elementos del modelo en grupos (paquetes) p
 | ++ | Elemento público |
 | - | Elemento privado |
 
-[[index|← Volver a Estructurales]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/index.md]]

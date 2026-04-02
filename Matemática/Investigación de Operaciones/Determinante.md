@@ -47,4 +47,4 @@ $$det(A) = a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32} - a_{13}
 - Calcular área y volumen
 - Determinar si una matriz es invertible ($det(A) \neq 0$)
 
-[[Matrices]]
+[[Matemática/Investigación de Operaciones/Matrices.md]]

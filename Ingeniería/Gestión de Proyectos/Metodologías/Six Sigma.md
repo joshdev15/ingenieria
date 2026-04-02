@@ -51,4 +51,4 @@ Desarrollada por Motorola en los años 80, popularizada por General Electric.
 - Optimizar workflows de deployment
 - Estandarizar procesos de desarrollo
 
-[[Gestión de Proyectos]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]

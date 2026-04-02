@@ -96,4 +96,4 @@ No registrar:
 - Tokens de sesión
 - Datos personales sensibles
 
-[[Arquitectura de Software]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md]]

@@ -102,4 +102,4 @@ El usuario debe hacer login para ver el dashboard.
 | **Secundario** | Soporta al sistema |
 | **Externo** | Sistema externo que interactúa |
 
-[[Comportamiento/index|← Volver a Comportamiento]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/index.md]]

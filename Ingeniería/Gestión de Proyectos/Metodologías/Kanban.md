@@ -60,4 +60,4 @@ Evolución incremental del proceso.
 4. Medir lead time y cycle time
 5. Mejorar iterativamente
 
-[[Gestión de Proyectos]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]

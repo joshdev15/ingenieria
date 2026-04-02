@@ -1,17 +1,19 @@
 #engineering #uml #system-design
 
-Los diagramas estructurales muestran la estructura estática del sistema.
+Los diagramas estructurales muestran la estructura estatica del sistema.
 
-## Índice
+## Indice
 
-- [[Diagrama de Clases]] - Estructura de clases y relaciones
-- [[Diagrama de Componentes]] - Componentes y dependencias
-- [[Diagrama de Despliegue]] - Distribución física
-- [[Diagrama de Paquetes]] - Organización de módulos
+.
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/index.md|index.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Clases.md|Diagrama de Clases.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Componentes.md|Diagrama de Componentes.md]]
+├── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Despliegue.md|Diagrama de Despliegue.md]]
+└── [[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/Diagrama de Paquetes.md|Diagrama de Paquetes.md]]
 
 ## Diagrama de Clases
 
-El más usado, muestra clases, atributos, métodos y relaciones.
+El mas usado, muestra clases, atributos, metodos y relaciones.
 
 ```
 ┌─────────────────────────┐
@@ -39,17 +41,17 @@ El más usado, muestra clases, atributos, métodos y relaciones.
 
 ### Tipos de Relaciones
 
-| Relación | Símbolo | Descripción |
+| Relacion | Simbolo | Descripcion |
 |----------|---------|-------------|
-| **Asociación** | ───→ | Conexión simple |
-| **Agregación** | ◇──→ | "Tiene un" (parte separable) |
-| **Composición** | ◆──→ | "Tiene un" (parte inseparable) |
-| **Herencia** | △──→ | Generalización |
+| **Asociacion** | ───→ | Conexion simple |
+| **Agregacion** | ◇──→ | "Tiene un" (parte separable) |
+| **Composicion** | ◆──→ | "Tiene un" (parte inseparable) |
+| **Herencia** | △──→ | Generalizacion |
 | **Dependencia** | - - → | Usa temporalmente |
 
 ### Multiplicidad
 
-| Notación | Significado |
+| Notacion | Significado |
 |----------|-------------|
 | 1 | Exactly one |
 | 0..1 | Zero or one |
@@ -60,25 +62,25 @@ El más usado, muestra clases, atributos, métodos y relaciones.
 
 ## Diagrama de Componentes
 
-Muestra los componentes del sistema y sus dependencias. Para APIs, ver [[Arquitectura de Software/Diseño de APIs|Diseño de APIs]].
+Muestra los componentes del sistema y sus dependencias. Para APIs, ver [[Ingeniería/Arquitectura de Software/Diseño de APIs.md|Diseño de APIs]].
 
 ```
 ┌──────────────┐      ┌──────────────┐
 │   Frontend   │──────│    API       │
 │  (React)     │      │   (REST)     │
 └──────────────┘      └──────┬───────┘
-                             │
-                    ┌────────▼────────┐
-                    │   Database     │
-                    │  (PostgreSQL)  │
-                    └────────────────┘
+                              │
+                     ┌────────▼────────┐
+                     │   Database     │
+                     │  (PostgreSQL)  │
+                     └────────────────┘
 ```
 
 ---
 
 ## Diagrama de Despliegue
 
-Muestra la distribución física del sistema.
+Muestra la distribucion fisica del sistema.
 
 ```
 ┌─────────────────┐        ┌─────────────────┐
@@ -101,7 +103,7 @@ Organiza elementos en grupos.
 ┌─────────────────────────────────────┐
 │         Sistema                     │
 │  ┌─────────────┐  ┌─────────────┐   │
-│  │   domínio   │  │   infra     │   │
+│  │   dominio   │  │   infra     │   │
 │  │ ┌─────────┐ │  │ ┌─────────┐ │   │
 │  │ │ Entity  │ │  │ │  Repo   │ │   │
 │  │ └─────────┘ │  │ └─────────┘ │   │
@@ -109,4 +111,4 @@ Organiza elementos en grupos.
 └─────────────────────────────────────┘
 ```
 
-[[Diagramas UML]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Diagramas UML.md|<- Volver a Diagramas UML]]

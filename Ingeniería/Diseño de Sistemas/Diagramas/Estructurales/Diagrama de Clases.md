@@ -108,4 +108,4 @@ type UsuarioRepository interface {
 | 1..* | Uno o muchos |
 | 2..5 | Rango específico |
 
-[[index|← Volver a Estructurales]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Estructurales/index.md]]

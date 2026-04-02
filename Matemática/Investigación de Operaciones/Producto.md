@@ -45,4 +45,4 @@ Resultado (2x2):
 3. **Elemento neutro**: $I \cdot A = A$ (donde I es la matriz identidad)
 4. **No conmutativa**: $A \cdot B \neq B \cdot A$ (en general)
 
-[[Matrices]]
+[[Matemática/Investigación de Operaciones/Matrices.md]]

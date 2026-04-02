@@ -57,4 +57,4 @@ $$f(x) = x^3 + 2x^2 - 5x + 1$$
 
 $$f'(x) = 3x^2 + 4x - 5$$
 
-[[Matemática]]
+[[Matemática/Matemática.md]]

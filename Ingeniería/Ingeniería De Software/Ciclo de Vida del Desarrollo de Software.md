@@ -30,5 +30,5 @@ El sistema se entrega en partes incrementales, cada una aportando funcionalidad.
 ### Modelo Espiral
 Combina iteraciones con análisis de riesgos.
 
-[[Ingeniería de Software]]
-[[Gráfico - Ciclo de Vida del Desarrollo de Software.canvas]]
+[[Ingeniería/Ingeniería De Software/Ingeniería de Software.md]]
+[[Ingeniería/Ingeniería De Software/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas]]

@@ -101,5 +101,5 @@ class UserController(
 - **ISP**: Interfaces pequeñas y específicas
 - **DIP**: Depender de abstracciones, no de concreciones
 
-[[Arquitectura de Software]]
-[[Patrones Arquitectónicos]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md]]
+[[Ingeniería/Arquitectura de Software/Patrones Arquitectónicos.md]]

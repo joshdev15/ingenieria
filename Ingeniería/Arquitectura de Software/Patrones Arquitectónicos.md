@@ -2,7 +2,7 @@
 
 Los patrones arquitectónicos son soluciones de alto nivel a problemas recurrentes en el diseño de sistemas software.
 
-> Para principios de diseño (SOLID, DRY, KISS), ver [[Diseño de Sistemas/Principios de Diseño|Principios de Diseño]]
+> Para principios de diseño (SOLID, DRY, KISS), ver [[Ingeniería/Diseño de Sistemas/Principios de Diseño.md]]
 
 ## Patrones Fundamentales
 
@@ -100,5 +100,5 @@ Separación de operaciones de lectura y escritura.
 | Sistema grande con equipos | Microservicios |
 | Consultas complejas | CQRS |
 
-[[Arquitectura de Software]]
-[[Clean Architecture]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md]]
+[[Ingeniería/Arquitectura de Software/Clean Architecture.md]]

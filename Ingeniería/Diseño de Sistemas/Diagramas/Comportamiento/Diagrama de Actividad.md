@@ -141,4 +141,4 @@ El diagrama de actividades modela el flujo de trabajo de un proceso, mostrando l
 └───────────────┴───────────────┴───────────────┘
 ```
 
-[[Comportamiento/index|← Volver a Comportamiento]]
+[[Ingeniería/Diseño de Sistemas/Diagramas/Comportamiento/index.md]]

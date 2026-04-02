@@ -55,4 +55,4 @@ PRINCE2 (Projects IN Controlled Environments) es una metodología de gestión de
 - Control de riesgos
 - Reporting estructurado
 
-[[Gestión de Proyectos]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]

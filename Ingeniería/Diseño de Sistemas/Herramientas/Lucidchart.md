@@ -46,4 +46,4 @@ Lucidchart es una herramienta profesional de diagramación con colaboración en 
 | Pricing | Freemium | Gratis |
 | Integrations | Más | Menos |
 
-[[Herramientas de Diagramación]]
+[[Ingeniería/Diseño de Sistemas/Herramientas/Herramientas de Diagramación.md]]

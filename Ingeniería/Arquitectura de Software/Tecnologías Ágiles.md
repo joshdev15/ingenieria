@@ -26,7 +26,7 @@ Las tecnologías ágiles son un conjunto de metodologías y prácticas que prior
 
 ## Frameworks Ágiles
 
-### [[Gestión de Proyectos/Metodologías/Scrum|Scrum]]
+### [[Ingeniería/Gestión de Proyectos/Metodologías/Scrum.md]]
 Framework iterativo con roles definidos:
 - **Product Owner**: Define el backlog
 - **Scrum Master**: Facilita el proceso
@@ -34,13 +34,13 @@ Framework iterativo con roles definidos:
 
 Ciclos de trabajo (sprints) de 2-4 semanas.
 
-### [[Gestión de Proyectos/Metodologías/Kanban|Kanban]]
+### [[Ingeniería/Gestión de Proyectos/Metodologías/Kanban.md]]
 Sistema visual de flujo de trabajo:
 - Limitar trabajo en progreso (WIP)
 - Flujo continuo
 - Métricas de lead time y cycle time
 
-### [[Gestión de Proyectos/Metodologías/XP|XP]] (Extreme Programming)
+### [[Ingeniería/Gestión de Proyectos/Metodologías/XP.md]] (Extreme Programming)
 Prácticas técnicas extremas:
 - Programación en pareja
 - Test-driven development (TDD)
@@ -63,4 +63,4 @@ Prácticas técnicas extremas:
 - Necesita validación de resultados
 - El mantenimiento puede ser complejo sin disciplina
 
-[[Arquitectura de Software]]
+[[Ingeniería/Arquitectura de Software/Arquitectura de Software.md]]
