@@ -26,7 +26,7 @@ dando la impresión de que todos se ejecutan al mismo tiempo.
 ## Hilos en POSIX
 
  - **POSIX**: Portable Operative System Interface for uniX, es un
-     estandar de API que todo programa para un sistema operativo
+     estándar de API que todo programa para un sistema operativo
      Unix debe cumplir, lo que impacta positivamente en la
      portabilidad, compatibilidad e interoperabilidad de las
      aplicaciones orientadas a este sistema operativo
@@ -90,3 +90,7 @@ señales, así como tener una pila por hilo, dependiendo del ámbito
 en el que se desarrolle cada hilo. En conclusión es bastante
 difícil implementar la conversión sin mencionar que se deba
 mantener la retro compatibilidad.
+
+---
+
+[[Sistemas Operativos/Sistemas Operativos.md|<- Volver a Sistemas Operativos]]

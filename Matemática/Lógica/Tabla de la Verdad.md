@@ -39,3 +39,7 @@ A continuación veremos una tabla de la verdad por operación:
 [[Matemática/Lógica/Disyunción (O).md]]
 [[Matemática/Lógica/Condicional (Entonces).md]]
 [[Matemática/Lógica/Bicondicional (Sí y solo sí).md]]
+
+---
+
+[[Matemática/Lógica/Lógica.md|<- Volver a Lógica]]

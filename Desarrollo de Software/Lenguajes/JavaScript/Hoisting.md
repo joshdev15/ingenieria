@@ -10,7 +10,7 @@ var nombre = "Juan"
 console.log(nombre) // "Juan"
 
 // Equivalente a:
-var nombre           //声明提前
+var nombre           // Declaración elevada (hoisting)
 console.log(nombre) // undefined
 var nombre = "Juan"
 ```
@@ -75,4 +75,4 @@ for (let i = 0; i < 3; i++) {
 // ✅ Usar funciones flecha para evitar problemas con 'this'
 ```
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

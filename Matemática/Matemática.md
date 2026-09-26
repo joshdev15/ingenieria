@@ -3,7 +3,7 @@ isFirst: true
 ---
 #math
 
-## Indice
+## Índice
 
 .
 ├── [[Matemática/Matemática.md|Matemática.md]]
@@ -26,3 +26,7 @@ isFirst: true
     ├── [[Matemática/Investigación de Operaciones/Producto.md|Producto.md]]
     ├── [[Matemática/Investigación de Operaciones/Resta.md|Resta.md]]
     └── [[Matemática/Investigación de Operaciones/Suma.md|Suma.md]]
+
+---
+
+[[README.md|<- Volver a Inicio]]

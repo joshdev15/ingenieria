@@ -45,7 +45,7 @@ Formulario: Solicitud de Bug
 ├── Título
 ├── Descripción
 ├── Prioridad
-├──截图/Pantallazo
+├── Captura / Pantallazo
 └── Enviar → Se crea tarea automáticamente
 ```
 
@@ -65,4 +65,4 @@ Formulario: Solicitud de Bug
 | Goals | ✅ nativo | ❌ No |
 | Formularios | ✅ nativo | ⚠️ Limitado |
 
-[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md|<- Volver a Herramientas de Gestión]]

@@ -3,11 +3,11 @@ isFirst: true
 ---
 #development #language #kotlin
 
-Kotlin es un lenguaje de programacion fuertemente tipado que funciona en la JVM.
+Kotlin es un lenguaje de programación fuertemente tipado que funciona en la JVM.
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Fuertemene tipado** | Seguridad en tiempo de compilacion |
 | **Sintaxis amigable** | Codigo limpio y legible |
@@ -22,7 +22,7 @@ Kotlin es un lenguaje de programacion fuertemente tipado que funciona en la JVM.
 - Aplicaciones Desktop
 - Scripts
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|Kotlin.md]]

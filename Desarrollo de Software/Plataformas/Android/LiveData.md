@@ -58,7 +58,7 @@ liveDataCombinado.addSource(fuete2) { actualizar() }
 ```kotlin
 @Composable
 fun Pantalla(viewModel: MiViewModel) {
-    val mensaje by viewModel.mensaje.observeAsState("默认值")
+    val mensaje by viewModel.mensaje.observeAsState("Valor por defecto")
 
     Text(mensaje)
 }
@@ -80,4 +80,4 @@ fun Pantalla(viewModel: MiViewModel) {
 | Kotlin only | ❌ | ✅ |
 | operators | Limitados | Completo |
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

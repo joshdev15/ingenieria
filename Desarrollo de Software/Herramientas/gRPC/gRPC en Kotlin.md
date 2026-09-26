@@ -159,4 +159,4 @@ class UsuarioGrpcService : UsuarioServiceImplBase() {
 }
 ```
 
-[[Desarrollo de Software/Herramientas/gRPC/gRPC.md]]
+[[Desarrollo de Software/Herramientas/gRPC/gRPC.md|<- Volver a gRPC]]

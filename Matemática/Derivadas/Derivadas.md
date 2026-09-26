@@ -2,7 +2,7 @@
 
 ## Qué son las derivadas?
 
-En matemáticas, la derivada de una función nos dice cómo cambia la función a medida que变化 su variable independiente. En términos más simples, la derivada nos da la **tasa de cambio instantánea** de la función en un punto dado.
+En matemáticas, la derivada de una función nos dice cómo cambia la función a medida que varía su variable independiente. En términos más simples, la derivada nos da la **tasa de cambio instantánea** de la función en un punto dado.
 
 ## Definición Formal
 
@@ -57,4 +57,4 @@ $$f(x) = x^3 + 2x^2 - 5x + 1$$
 
 $$f'(x) = 3x^2 + 4x - 5$$
 
-[[Matemática/Matemática.md]]
+[[Matemática/Matemática.md|<- Volver a Matemática]]

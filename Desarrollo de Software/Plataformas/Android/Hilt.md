@@ -118,4 +118,4 @@ lateinit var client: OkHttpClient
 | `@FragmentScoped` | Una instancia por fragment |
 | `@ViewModelScoped` | Una instancia por ViewModel |
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

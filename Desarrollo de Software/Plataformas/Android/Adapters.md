@@ -141,4 +141,4 @@ class UsuarioListAdapter : ListAdapter<Usuario, UsuarioViewHolder>(UsuarioDiffCa
 adapter.submitList(nuevaLista)
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

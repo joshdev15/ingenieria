@@ -7,9 +7,9 @@ Android es el sistema operativo mas usado del mundo para dispositivos moviles.
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
-| **Lenguaje principal** | Kotlin (tambien Java) |
+| **Lenguaje principal** | Kotlin (también Java) |
 | **UI** | XML o Jetpack Compose |
 | **Arquitectura** | MVVM, Clean Architecture |
 | **Build system** | Gradle |
@@ -23,7 +23,7 @@ Android es el sistema operativo mas usado del mundo para dispositivos moviles.
 - **BroadcastReceivers** - Respuesta a eventos del sistema
 - **ContentProviders** - Compartir datos entre apps
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Plataformas/Android/Android.md|Android.md]]

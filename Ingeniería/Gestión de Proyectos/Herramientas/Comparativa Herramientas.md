@@ -57,4 +57,4 @@ Complejidad Baja ─────────────┼───────
 2. Asana (enterprise)
 3. Notion (knowledge + projects)
 
-[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md|<- Volver a Herramientas de Gestión]]

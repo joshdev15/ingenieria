@@ -7,7 +7,7 @@ gRPC es un framework de Remote Procedure Call (RPC) de alto rendimiento desarrol
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Protocol Buffers** | Serializacion binaria eficiente |
 | **HTTP/2** | Multiplexacion y streaming |
@@ -23,7 +23,7 @@ gRPC es un framework de Remote Procedure Call (RPC) de alto rendimiento desarrol
 - Streaming de datos
 - Mobile apps
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Herramientas/gRPC/gRPC.md|gRPC.md]]

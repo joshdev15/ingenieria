@@ -1,6 +1,6 @@
 #development #android
 
-Flow es un flujo de datos asíncrono que puede收集 múltiples valores.
+Flow es un flujo de datos asíncrono que puede emitir y recolectar múltiples valores.
 
 ## Flows vs LiveData
 
@@ -105,4 +105,4 @@ val coldFlow = flow {
 val stateFlow = MutableStateFlow(1)
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

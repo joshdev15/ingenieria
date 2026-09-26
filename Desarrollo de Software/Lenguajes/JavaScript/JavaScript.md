@@ -3,14 +3,14 @@ isFirst: true
 ---
 #development #language #javascript
 
-JavaScript es un lenguaje de programacion interpretado, orientado a objetos y ampliamente usado en desarrollo web.
+JavaScript es un lenguaje de programación interpretado, orientado a objetos y ampliamente usado en desarrollo web.
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Interpretado** | No requiere compilacion |
-| **Dinamico** | Tipado flexible |
+| **Dinámico** | Tipado flexible |
 | **Multiparadigma** | Procedural, OOP, funcional |
 | **Asincrono** | Promises, async/await |
 | **Prototipico** | Herencia basada en prototipos |
@@ -23,7 +23,7 @@ JavaScript es un lenguaje de programacion interpretado, orientado a objetos y am
 - APIs REST
 - Scripts y automatizacion
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|JavaScript.md]]

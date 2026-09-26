@@ -7,7 +7,7 @@ Docker es una plataforma para desarrollar, enviar y ejecutar aplicaciones en con
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Contenedores** | Aislamiento ligero de procesos |
 | **Imagenes** | Templates readonly para contenedores |
@@ -22,7 +22,7 @@ Docker es una plataforma para desarrollar, enviar y ejecutar aplicaciones en con
 - **Volume**: Almacenamiento persistente
 - **Network**: Comunicacion entre contenedores
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Herramientas/Docker/Docker.md|Docker.md]]

@@ -3,9 +3,9 @@ isFirst: true
 ---
 #engineering #project-management
 
-La gestion de proyectos es la disciplina de planificar, organizar y controlar los recursos para lograr objetivos especificos.
+La gestión de proyectos es la disciplina de planificar, organizar y controlar los recursos para lograr objetivos especificos.
 
-## Indice
+## Índice
 
 .
 ├── [[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|Gestión de Proyectos.md]]
@@ -30,7 +30,7 @@ La gestion de proyectos es la disciplina de planificar, organizar y controlar lo
 
 ## Importancia
 
-Una buena gestion de proyectos permite:
+Una buena gestión de proyectos permite:
 - Cumplir plazos y presupuestos
 - Asignar recursos de forma eficiente
 - Mitigar riesgos
@@ -47,11 +47,15 @@ Una buena gestion de proyectos permite:
 
 ## Areas de Conocimiento
 
-- Gestion de alcance
-- Gestion de tiempo
-- Gestion de costos
-- Gestion de calidad
-- Gestion de riesgos
-- Gestion de comunicaciones
+- Gestión de alcance
+- Gestión de tiempo
+- Gestión de costos
+- Gestión de calidad
+- Gestión de riesgos
+- Gestión de comunicaciones
 
 [[Ingeniería/Ingeniería De Software/Ingeniería de Software.md|<- Volver a Ingeniería de Software]]
+
+---
+
+[[Ingeniería/Ingeniería.md|<- Volver a Ingeniería]]

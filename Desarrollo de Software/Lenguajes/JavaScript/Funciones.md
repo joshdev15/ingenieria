@@ -75,4 +75,4 @@ function Persona() {
 }
 ```
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

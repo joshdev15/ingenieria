@@ -61,3 +61,7 @@ Total: 10
 Como todos los resultados dan 10, la matriz
 resultante tiene un valor de 10 en todas
 sus posiciones.
+
+---
+
+[[Matemática/Matemática.md|<- Volver a Matemática]]

@@ -22,3 +22,7 @@ El operador **Entonces - →**: Si la primera proposición es verdadera, la sigu
 - Está lloviendo **entonces** el suelo no está mojado: **Falso**
 - No está lloviendo **entonces** el suelo está mojado: **Verdadero**
 - No está lloviendo **entonces** el suelo no está mojado: **Verdadero**
+
+---
+
+[[Matemática/Lógica/Lógica.md|<- Volver a Lógica]]

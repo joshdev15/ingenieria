@@ -19,3 +19,7 @@ La negación **No - NOT - ¬** en términos lógicos invierte el valor de la pro
 
 - Está lloviendo: Verdadero
 - No (está lloviendo): Falso
+
+---
+
+[[Matemática/Lógica/Lógica.md|<- Volver a Lógica]]

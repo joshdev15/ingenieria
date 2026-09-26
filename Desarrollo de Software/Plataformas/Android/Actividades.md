@@ -61,4 +61,4 @@ class MiObserver : LifecycleObserver {
 - No guardar estado en variables de instancia
 - Usar Navigation Component para navegación compleja
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

@@ -167,4 +167,4 @@ kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref 
 | JVM | Java 8 |
 | JS | ES5 |
 
-[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md]]
+[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|<- Volver a Kotlin Multiplatform]]

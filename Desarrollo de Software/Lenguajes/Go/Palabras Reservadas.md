@@ -4,7 +4,7 @@ Palabras reservadas en Go (no pueden usarse como identificadores):
 
 ## Funciones Basicas
 
-| Keyword | Descripcion |
+| Keyword | Descripción |
 |---------|-------------|
 | `break` | Sale de un bucle |
 | `continue` | Continua siguiente iteracion |
@@ -14,7 +14,7 @@ Palabras reservadas en Go (no pueden usarse como identificadores):
 
 ## Declaraciones
 
-| Keyword | Descripcion |
+| Keyword | Descripción |
 |---------|-------------|
 | `const` | Define una constante |
 | `func` | Define una funcion |
@@ -27,7 +27,7 @@ Palabras reservadas en Go (no pueden usarse como identificadores):
 
 ## Control de Flujo
 
-| Keyword | Descripcion |
+| Keyword | Descripción |
 |---------|-------------|
 | `if` | Condicional |
 | `else` | Alternativa |
@@ -38,7 +38,7 @@ Palabras reservadas en Go (no pueden usarse como identificadores):
 
 ## Funciones Incorporadas
 
-| Funcion | Descripcion |
+| Funcion | Descripción |
 |---------|-------------|
 | `append` | Agrega elemento a slice |
 | `cap` | Obtiene capacidad de slice |
@@ -50,4 +50,4 @@ Palabras reservadas en Go (no pueden usarse como identificadores):
 | `new` | Crea puntero |
 | `print/println` | Imprime en consola |
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

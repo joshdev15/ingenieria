@@ -34,3 +34,7 @@ Escalar k = 3:
 5. **Cero**: $0 \cdot A = 0$ (matriz cero)
 
 [[Matemática/Investigación de Operaciones/Matrices.md]]
+
+---
+
+[[Matemática/Matemática.md|<- Volver a Matemática]]

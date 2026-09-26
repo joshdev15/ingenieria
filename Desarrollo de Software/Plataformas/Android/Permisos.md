@@ -123,4 +123,4 @@ Button(onClick = { permissionLauncher.launch(Manifest.permission.CAMERA) }) {
 - Manejar el caso cuando el permiso es denegado
 - Usar permisos de lectura/escritura separados en Android 13+
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

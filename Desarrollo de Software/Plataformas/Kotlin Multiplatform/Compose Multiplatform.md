@@ -186,4 +186,4 @@ fun Screen(viewModel: MyViewModel) {
 }
 ```
 
-[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md]]
+[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|<- Volver a Kotlin Multiplatform]]

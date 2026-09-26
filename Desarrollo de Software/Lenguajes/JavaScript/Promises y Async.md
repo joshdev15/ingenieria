@@ -63,4 +63,4 @@ Promise.race([p1, p2, p3])    // primera resuelta
 Promise.any([p1, p2, p3])     // primera exitosa
 ```
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

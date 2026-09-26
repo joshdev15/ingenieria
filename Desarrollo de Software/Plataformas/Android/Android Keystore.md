@@ -142,4 +142,4 @@ val decrypted = aead.decrypt(ciphertext, associatedData)
 - Usar EncryptedSharedPreferences para preferencias
 - Habilitar biometric authentication para mayor seguridad
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

@@ -107,6 +107,6 @@ fun MiPantalla() {
 |-----------|---------------------|
 | Guarda objetos complejos | Solo tipos primitivos |
 | Persiste en config change | Solo en onStop |
-| Se recrea en process death | Se сохраняет |
+| Se recrea en process death | Se preserva |
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

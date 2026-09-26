@@ -5,7 +5,7 @@ isFirst: true
 
 La ingenieria de requerimientos es una disciplina que se enfoca en **comprender las necesidades** de los usuarios y otras partes interesadas, y **traducirlas en requisitos especificos** para el software. Es un proceso **iterativo e incremental** que involucra a diferentes personas y actividades.
 
-## Indice
+## Índice
 
 .
 ├── [[Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md|Ingeniería de Requisitos.md]]
@@ -24,18 +24,18 @@ Los requerimientos son la base fundamental del desarrollo de software. Uns **req
 - **Analisis:** Se analizan los requisitos para identificar inconsistencias, ambiguedades y omisiones.
 - **Especificacion:** Se documentan los requisitos de forma clara y precisa.
 - **Validacion:** Se verifica que los requisitos sean correctos y completos.
-- **Gestion:** Se controlan los cambios en los requisitos a lo largo del ciclo de vida del software.
+- **Gestión:** Se controlan los cambios en los requisitos a lo largo del ciclo de vida del software.
 
-**Buenas praticas para la gestion de requerimientos:**
+**Buenas praticas para la gestión de requerimientos:**
 
 - **Involucrar a las partes interesadas:** Es fundamental involucrar a todas las partes interesadas en el proceso de definicion de requisitos.
 - **Documentar los requisitos:** Los requisitos deben documentarse de forma clara y precisa.
 - **Validar los requisitos:** Es importante verificar que los requisitos sean correctos y completos.
 - **Gestionar los cambios en los requisitos:** Es inevitable que los requisitos cambien a lo largo del ciclo de vida del software. Es importante tener un proceso para gestionar estos cambios.
 
-**Herramientas para la gestion de requerimientos:**
+**Herramientas para la gestión de requerimientos:**
 
-Existen diversas herramientas para la gestion de requisitos, como herramientas de gestion de casos de uso, herramientas de modelado de requisitos y herramientas de seguimiento de requisitos.
+Existen diversas herramientas para la gestión de requisitos, como herramientas de gestión de casos de uso, herramientas de modelado de requisitos y herramientas de seguimiento de requisitos.
 
 **Subcapitulos del SWEBOK sobre Ingenieria de Requerimientos:**
 
@@ -44,7 +44,7 @@ Existen diversas herramientas para la gestion de requisitos, como herramientas d
 - **3.3 Analisis de Requerimientos:** Explica como analizar los requisitos para identificar inconsistencias, ambiguedades y omisiones.
 - **3.4 Especificacion de Requerimientos:** Describe diferentes formatos para documentar los requisitos.
 - **3.5 Validacion de Requerimientos:** Explica como verificar que los requisitos sean correctos y completos.
-- **3.6 Gestion de Requerimientos:** Describe como gestionar los cambios en los requisitos a lo largo del ciclo de vida del software.
+- **3.6 Gestión de Requerimientos:** Describe como gestionar los cambios en los requisitos a lo largo del ciclo de vida del software.
 
 ## Actividades de la Ingenieria de Requisitos
 
@@ -52,10 +52,10 @@ Existen diversas herramientas para la gestion de requisitos, como herramientas d
 
 - **Objetivo:** Recopilar los requisitos de las partes interesadas.
 - **Actividades:**
-    - **Reuniones con las partes interesadas:** Se realizan entrevistas, grupos focales y talleres para obtener informacion sobre las necesidades de los usuarios y otras partes interesadas.
+    - **Reuniones con las partes interesadas:** Se realizan entrevistas, grupos focales y talleres para obtener información sobre las necesidades de los usuarios y otras partes interesadas.
     - **Analisis de documentos:** Se analizan documentos existentes, como estudios de mercado, planes de negocio y manuales de usuario, para identificar requisitos.
     - **Observacion:** Se observa a los usuarios en su entorno de trabajo para comprender sus necesidades y como utilizan el software actual.
-    - **Cuestionarios y encuestas:** Se realizan encuestas para obtener informacion sobre las necesidades y preferencias de los usuarios.
+    - **Cuestionarios y encuestas:** Se realizan encuestas para obtener información sobre las necesidades y preferencias de los usuarios.
 
 **2. Analisis:**
 
@@ -64,7 +64,7 @@ Existen diversas herramientas para la gestion de requisitos, como herramientas d
     - **Validacion de requisitos:** Se verifica que los requisitos sean correctos, completos y realistas.
     - **Priorizacion de requisitos:** Se priorizan los requisitos en funcion de su importancia y urgencia.
     - **Analisis de trazas:** Se establece la relacion entre los requisitos y otros elementos del proyecto, como casos de uso y componentes del software.
-    - **Gestion de riesgos:** Se identifican y gestionan los riesgos asociados a los requisitos.
+    - **Gestión de riesgos:** Se identifican y gestionan los riesgos asociados a los requisitos.
 
 **3. Especificacion:**
 
@@ -82,7 +82,7 @@ Existen diversas herramientas para la gestion de requisitos, como herramientas d
     - **Prototipado:** Se crea un prototipo del software para que las partes interesadas puedan probarlo y validar los requisitos.
     - **Pruebas de requisitos:** Se realizan pruebas para verificar que el software cumple con los requisitos.
 
-**5. Gestion:**
+**5. Gestión:**
 
 - **Objetivo:** Controlar los cambios en los requisitos a lo largo del ciclo de vida del software.
 - **Actividades:**
@@ -90,12 +90,16 @@ Existen diversas herramientas para la gestion de requisitos, como herramientas d
     - **Evaluacion del impacto de los cambios:** Se evalua el impacto de cada cambio en los requisitos en el proyecto.
     - **Aprobacion de cambios:** Se establece un proceso para aprobar o rechazar cambios en los requisitos.
 
-**Herramientas para la gestion de requisitos:**
+**Herramientas para la gestión de requisitos:**
 
-- **Herramientas de gestion de casos de uso:** Ayudan a documentar y gestionar los casos de uso.
+- **Herramientas de gestión de casos de uso:** Ayudan a documentar y gestionar los casos de uso.
 - **Herramientas de modelado de requisitos:** Permiten crear diagramas y modelos para visualizar los requisitos.
 - **Herramientas de seguimiento de requisitos:** Ayudan a rastrear los cambios en los requisitos y su impacto en el proyecto.
 
 **En resumen, la ingenieria de requisitos es un proceso iterativo que involucra a las partes interesadas para definir, analizar, especificar, validar y gestionar los requisitos del software. Uns requisitos bien definidos y documentados son esenciales para asegurar el exito del proyecto de software.**
 
 [[Ingeniería/Ingeniería De Software/Ingeniería de Software.md|<- Volver a Ingeniería de Software]]
+
+---
+
+[[Ingeniería/Ingeniería.md|<- Volver a Ingeniería]]

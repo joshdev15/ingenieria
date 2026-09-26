@@ -164,4 +164,4 @@ func authInterceptor(ctx context.Context, method string, req, reply interface{},
 }
 ```
 
-[[Desarrollo de Software/Herramientas/gRPC/gRPC.md]]
+[[Desarrollo de Software/Herramientas/gRPC/gRPC.md|<- Volver a gRPC]]

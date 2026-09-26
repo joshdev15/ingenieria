@@ -62,4 +62,4 @@ export * from './math'
 export { suma, resta } from './math'
 ```
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

@@ -82,4 +82,4 @@ Palabras reservadas en Kotlin (no pueden usarse como identificadores).
 | `finally` | Bloque siempre ejecutado |
 | `throw` | Lanza excepción |
 
-[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md]]
+[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|<- Volver a Kotlin]]

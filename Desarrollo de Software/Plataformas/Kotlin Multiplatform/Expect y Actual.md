@@ -87,4 +87,4 @@ actual class Platform ...
 - Mantener lógica de negocio en common
 - Documentar el comportamiento esperado
 
-[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md]]
+[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|<- Volver a Kotlin Multiplatform]]

@@ -41,4 +41,4 @@ node hola.js
 | Node.js | `console.log()` |
 | HTML | `<script>` tag |
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

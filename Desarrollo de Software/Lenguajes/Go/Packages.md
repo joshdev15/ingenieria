@@ -2,9 +2,9 @@
 
 Los paquetes organizan el codigo en Go.
 
-## Paquetes Estandar
+## Paquetes Estándar
 
-| Paquete | Descripcion |
+| Paquete | Descripción |
 |---------|-------------|
 | `fmt` | E/S formateada (como printf) |
 | `math` | Operaciones matematicas |
@@ -39,4 +39,4 @@ func main() {
 2. Cada archivo pertenece a un paquete
 3. El nombre del paquete debe coincidir con la carpeta
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

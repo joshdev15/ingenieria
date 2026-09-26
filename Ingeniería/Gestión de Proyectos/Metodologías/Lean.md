@@ -56,4 +56,4 @@ Lean complementa metodologías ágiles con:
 - Focus en flujo de valor
 - Mejora continua sistemática
 
-[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|<- Volver a Gestión de Proyectos]]

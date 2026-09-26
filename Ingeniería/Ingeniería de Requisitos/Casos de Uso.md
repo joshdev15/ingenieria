@@ -55,5 +55,5 @@ Los casos de uso son una técnica para capturar requisitos funcionales describie
 └─────────────┘       └──────────────────┘
 ```
 
-[[Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md]]
+[[Ingeniería/Ingeniería de Requisitos/Ingeniería de Requisitos.md|<- Volver a Ingeniería de Requisitos]]
 [[Ingeniería/Ingeniería de Requisitos/Técnicas de Elicitación.md]]

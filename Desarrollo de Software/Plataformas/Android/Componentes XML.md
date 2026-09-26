@@ -131,4 +131,4 @@ Los componentes XML son los elementos visuales que construyen las interfaces.
 | `android:visibility` | visible/invisible/gone |
 | `android:background` | Fondo |
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

@@ -1,8 +1,8 @@
 #development #go
 
-Declaracion y uso de variables en Go.
+Declaración y uso de variables en Go.
 
-## Formas de Declaracion
+## Formas de Declaración
 
 ```go
 // 1. Solo declaracion
@@ -17,13 +17,13 @@ nombre := "Go"
 
 ## Tipos Compuestos
 
-### Arrays (tamano fijo)
+### Arrays (tamaño fijo)
 ```go
 var arr [50]string
 arr2 := [25]byte{}
 ```
 
-### Slices (tamano dinamico)
+### Slices (tamaño dinámico)
 ```go
 var slice []string
 slice2 := make([]int, 10)
@@ -66,4 +66,4 @@ ch <- 10      // Enviar
 valor := <-ch // Recibir
 ```
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

@@ -42,4 +42,4 @@ typeof {}           // "object"
 typeof []           // "object"
 ```
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

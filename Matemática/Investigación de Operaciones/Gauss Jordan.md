@@ -73,3 +73,7 @@ Matriz aumentada:
 Si quieres la inversa de A, aplica Gauss-Jordan a [A | I] y obtendras [I | A⁻¹].
 
 [[Matemática/Investigación de Operaciones/Matrices.md]]
+
+---
+
+[[Matemática/Matemática.md|<- Volver a Matemática]]

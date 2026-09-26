@@ -7,7 +7,7 @@ Kotlin Multiplatform (KMP) permite compartir codigo entre diferentes plataformas
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Compartido** | Codigo comun para multiples plataformas |
 | **Nativo** | Compila a codigo nativo de cada plataforma |
@@ -28,7 +28,7 @@ Kotlin Multiplatform (KMP) permite compartir codigo entre diferentes plataformas
 - Compartir validacion
 - Compartir codigo de red/base de datos
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|Kotlin Multiplatform.md]]

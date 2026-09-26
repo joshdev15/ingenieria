@@ -3,11 +3,11 @@ isFirst: true
 ---
 #development #language #kotlin
 
-Kotlin es un lenguaje de programacion desarrollado por JetBrains, conocido por su sintaxis concisa y seguridad contra valores nulos.
+Kotlin es un lenguaje de programación desarrollado por JetBrains, conocido por su sintaxis concisa y seguridad contra valores nulos.
 
 ## Características
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Seguridad nula** | Sistema de null safety integrado |
 | **Conciso** | Sintaxis reducida comparado con Java |
@@ -23,7 +23,7 @@ Kotlin es un lenguaje de programacion desarrollado por JetBrains, conocido por s
 - Multiplataforma (Kotlin Multiplatform)
 - Scripts y herramientas
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|Kotlin.md]]

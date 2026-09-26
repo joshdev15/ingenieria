@@ -37,4 +37,4 @@ data class Usuario(val nombre: String, val email: String)
 // Equivalente a: constructor, equals, hashCode, toString, copy
 ```
 
-[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md]]
+[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|<- Volver a Kotlin]]

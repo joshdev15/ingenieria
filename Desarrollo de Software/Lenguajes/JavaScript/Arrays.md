@@ -73,4 +73,4 @@ const [a, b, ...rest] = [1, 2, 3, 4, 5]
 // a=1, b=2, rest=[3,4,5]
 ```
 
-[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md]]
+[[Desarrollo de Software/Lenguajes/JavaScript/JavaScript.md|<- Volver a JavaScript]]

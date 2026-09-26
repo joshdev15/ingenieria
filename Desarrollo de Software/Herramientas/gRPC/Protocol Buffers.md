@@ -129,4 +129,4 @@ protoc --kotlin_out=. --kotlingrpc_out=. proto/usuario.proto
 [08 01 12 04 4a 75 61 6e 1a 10 6a 75 61 6e 40 3e]
 ```
 
-[[Desarrollo de Software/Herramientas/gRPC/gRPC.md]]
+[[Desarrollo de Software/Herramientas/gRPC/gRPC.md|<- Volver a gRPC]]

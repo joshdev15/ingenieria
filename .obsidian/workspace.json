@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7640f61807dd3a74",
+        "id": "a035b184e8ea885e",
         "type": "tabs",
         "children": [
           {
-            "id": "442504b8d6456a66",
+            "id": "4e4e28c085cf9df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Desarrollo de Software/Herramientas/gRPC/Protocol Buffers.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Protocol Buffers"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 397.08203125
   },
   "right": {
     "id": "7620d840cb855b90",
@@ -163,47 +165,47 @@
       "command-palette:Abrir paleta de comandos": true
     }
   },
-  "active": "442504b8d6456a66",
+  "active": "4e4e28c085cf9df9",
   "lastOpenFiles": [
-    "Desarrollo de Software/Lenguajes/Go/Go.md",
-    "README.md",
-    "Desarrollo de Software/Desarrollo de Software.md",
+    "Desarrollo de Software/Herramientas/gRPC/gRPC en Kotlin.md",
+    "Desarrollo de Software/Herramientas/gRPC/gRPC en Go.md",
+    "Desarrollo de Software/Herramientas/gRPC/gRPC - Conceptos.md",
     "Desarrollo de Software/Herramientas/gRPC/gRPC.md",
-    "Desarrollo de Software/Herramientas/Docker/Docker.md",
-    "Matemática/Derivadas/Derivadas.md",
-    "Ingeniería/Ingeniería.md",
-    "Matematica/Logica/Logica.md",
-    "Ingenieria/Diseno de Sistemas/Diagramas/Comportamiento/Diagrama de Actividad.md",
-    "Ingenieria/Diseno de Sistemas/Diagramas/Comportamiento",
-    "Ingenieria/Diseno de Sistemas/Diagramas",
-    "Ingenieria/Diseno de Sistemas",
-    "Ingenieria",
-    "Matemática/Lógica/Lógica.md",
-    "Matematica/Logica",
-    "Matematica",
-    "Sistemas Operativos/Hilos.md",
-    "Sistemas Operativos/Sistemas Operativos.md",
-    "Desarrollo de Software/Lenguajes/Go/Genéricos (Go 1.18+).md",
-    "<- Volver a Go.md",
-    "Sin título.base",
-    "Desarrollo de Software/Sin título.canvas",
-    "<- Volver a Docker/Comandos Docker.md",
-    "<- Volver a Docker",
-    "Desarrollo de Software/Herramientas/Docker/Comandos Docker.md",
-    "Desarrollo de Software/Lenguajes/Go/Variables.md",
-    "Desarrollo de Software/Lenguajes/Go/Tipos de Datos.md",
-    "Desarrollo de Software/Lenguajes/Go/Route Map.md",
-    "Desarrollo de Software/Lenguajes/Go/Palabras Reservadas.md",
-    "Desarrollo de Software/Lenguajes/Go/Packages.md",
     "Desarrollo de Software/Herramientas/Docker/Docker Desktop.md",
     "Desarrollo de Software/Herramientas/Docker/Docker Compose.md",
-    "Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md",
-    "Desarrollo de Software/Lenguajes/Kotlin/Arrays.md",
-    "Desarrollo de Software/Plataformas/Android/Coroutines.md",
-    "Desarrollo de Software/Herramientas/gRPC",
-    "Desarrollo de Software/Herramientas/Docker",
-    "Sin título.canvas",
+    "Desarrollo de Software/Herramientas/Docker/Docker.md",
+    "Desarrollo de Software/Herramientas/Docker/Comandos Docker.md",
+    "README.md",
+    "Ingeniería/Ingeniería.md",
+    "Ingeniería/Ingeniería De Software/Requisitos.md",
+    "Ingeniería/Ingeniería De Software/Ingeniería de Software.md",
     "Ingeniería/Ingeniería De Software/Gráfico - Ciclo de Vida del Desarrollo de Software.canvas",
+    "Ingeniería/Ingeniería De Software/Ciclo de Vida del Desarrollo de Software.md",
+    "Ingeniería/Ingeniería de Requisitos/Técnicas de Elicitación.md",
+    "Diseño y Arquitectura/Principios de Diseño/Principio de Diseño - SOLID.md",
+    "Diseño y Arquitectura/Patrones de Arquitectura/Patrón Arquitectónico - Signals.md",
+    "Diseño y Arquitectura/Principios de Diseño/Principios de Diseño.md",
+    "Diseño y Arquitectura/Principios de Diseño/Principio de Diseño - YAGNI.md",
+    "Diseño y Arquitectura/Patrones de Diseño/Patrones de Diseño - Catálogo GoF.md",
+    "Diseño y Arquitectura/Patrones de Diseño/Patrón de Diseño - State.md",
+    "Diseño y Arquitectura/Principios de Diseño/Principios de Diseño (SOLID, DRY, KISS).md",
+    "Diseño y Arquitectura/Principios de Diseño/Principio de Diseño - KISS.md",
+    "Diseño y Arquitectura/Principios de Diseño/Principio de Diseño - DRY.md",
+    "Diseño y Arquitectura/Patrones de Diseño/Patrón de Diseño - Decorator.md",
+    "Diseño y Arquitectura/Patrones de Diseño/Patrón de Diseño - Command.md",
+    "Diseño y Arquitectura/Patrones de Diseño/Patrón de Diseño - Factory Method.md",
+    "Diseño y Arquitectura/Modelado y Diagramación/Herramientas",
+    "Diseño y Arquitectura/Modelado y Diagramación/Diagramas/Estructurales",
+    "Diseño y Arquitectura/Modelado y Diagramación/Diagramas/Comportamiento",
+    "Diseño y Arquitectura/Modelado y Diagramación/Diagramas",
+    "Diseño y Arquitectura/Modelado y Diagramación",
+    "Diseño y Arquitectura/Seguridad",
+    "Diseño y Arquitectura/APIs y Comunicación",
+    "Diseño y Arquitectura/Sistemas Distribuidos",
+    "Diseño y Arquitectura/Principios de Diseño",
+    "Diseño y Arquitectura/Patrones de Diseño",
+    "Desarrollo de Software/Sin título.canvas",
+    "Sin título.canvas",
     "SistemasOperativos/Investigacion/Documento/hilos-infografia.svg"
   ]
 }

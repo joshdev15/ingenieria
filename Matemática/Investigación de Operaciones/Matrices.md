@@ -1,4 +1,4 @@
-En esta materia encontraremos informacion
+En esta materia encontraremos información
 sobre la forma en la que podemos realizar
 operaciones sobre matrices, lo cual es 
 fundamental en el area de la ingenieria de
@@ -6,14 +6,14 @@ software.
 
 Las Matrices es una de las estructuras de
 datos mas utilizadas en el entorno 
-informatico. Las matrices tambien las
+informatico. Las matrices también las
 podemos encontrar en areas fisicas del
 hardware, como los pixeles de los monitores
 y en areas de software como en el 
 almacenamiento de datos, un disco duro
 por ejemplo.
 
-En programacion una matriz se puede representar
+En programación una matriz se puede representar
 de la siguiente manera: 
 
 Lenguaje C / Go:
@@ -33,7 +33,7 @@ Lenguaje JavaScript:
 A continuacion listaremos las operaciones
 basicas que se pueden hacer con matrices.
 
-## Indice
+## Índice
 
 .
 ├── [[Matemática/Investigación de Operaciones/Matrices.md|Matrices.md]]

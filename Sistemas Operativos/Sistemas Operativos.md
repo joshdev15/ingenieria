@@ -3,7 +3,7 @@ isFirst: true
 ---
 #os
 
-## Que es un Sistema Operativo?
+## ¿Qué es un Sistema Operativo?
 
 Un sistema operativo es un software que se comunica y administra los recursos fisicos de un ordenador.
 
@@ -11,8 +11,12 @@ Su deber es velar por el correcto funcionamiento de los programas y aplicaciones
 
 Los sistemas operativos mas populares para ordenador son **Windows, macOS y Linux**.
 
-## Indice
+## Índice
 
 .
 ├── [[Sistemas Operativos/Sistemas Operativos.md|Sistemas Operativos.md]]
 └── [[Sistemas Operativos/Hilos.md|Hilos.md]]
+
+---
+
+[[README.md|<- Volver a Inicio]]

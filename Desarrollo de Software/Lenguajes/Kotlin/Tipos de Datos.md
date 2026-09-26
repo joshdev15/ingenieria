@@ -36,4 +36,4 @@ val mapa: Map<Int, String> = mapOf(
 )
 ```
 
-[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md]]
+[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|<- Volver a Kotlin]]

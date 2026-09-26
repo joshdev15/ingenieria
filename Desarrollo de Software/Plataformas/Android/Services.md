@@ -144,4 +144,4 @@ val connection = object : ServiceConnection {
 bindService(Intent(this, MiBoundService::class.java), connection, Context.BIND_AUTO_CREATE)
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

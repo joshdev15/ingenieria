@@ -111,4 +111,4 @@ job.cancel()
 | `async` | Crea coroutine con retorno |
 | `runBlocking` | Bloquea el hilo actual |
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

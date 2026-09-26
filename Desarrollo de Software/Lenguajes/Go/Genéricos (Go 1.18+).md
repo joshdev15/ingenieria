@@ -67,4 +67,4 @@ func PrintSlice[T any](items []T) {
 }
 ```
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

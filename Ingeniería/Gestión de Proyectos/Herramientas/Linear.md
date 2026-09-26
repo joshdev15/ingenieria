@@ -63,4 +63,4 @@ Cmd + \: Buscar
 | Setup | Minutos | Horas/días |
 | Developer-first | ✅ | ⚠️ |
 
-[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md]]
+[[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md|<- Volver a Herramientas de Gestión]]

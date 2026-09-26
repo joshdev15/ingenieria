@@ -97,4 +97,4 @@ Los XML Layouts definen la estructura visual de las interfaces en Android.
 </LinearLayout>
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

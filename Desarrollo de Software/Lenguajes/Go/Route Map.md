@@ -2,7 +2,7 @@
 
  roadmap de aprendizaje para Go:
 
-## Indice del Contenido
+## Índice del Contenido
 
 1. [[Desarrollo de Software/Lenguajes/Go/Hola Mundo.md]]
 2. [[Desarrollo de Software/Lenguajes/Go/Palabras Reservadas.md]]
@@ -13,6 +13,10 @@
 ## Temas Futuros
 
 - Funciones y Metodos
-- Programacion Orientada a Objetos
+- Programación Orientada a Objetos
 
 [[Desarrollo de Software/Lenguajes/Go/Route Map.md]]
+
+---
+
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

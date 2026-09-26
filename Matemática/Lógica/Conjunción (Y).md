@@ -23,3 +23,7 @@ El operador **Y - AND - ∧**: Es verdadero si ambas proposiciones son verdadera
 - Está lloviendo **y** el suelo no está mojado: **Falso**
 - No está lloviendo **y** el suelo está mojado: **Falso**
 - No está lloviendo **y** el suelo no está mojado: **Falso**
+
+---
+
+[[Matemática/Lógica/Lógica.md|<- Volver a Lógica]]

@@ -76,3 +76,7 @@ det(Ay) = 2×1 - 5×3 = 2 - 15 = -13
 - Cramer: Conceptualmente simple pero lento
 
 [[Matemática/Investigación de Operaciones/Matrices.md]]
+
+---
+
+[[Matemática/Matemática.md|<- Volver a Matemática]]

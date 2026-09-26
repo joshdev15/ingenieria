@@ -84,4 +84,4 @@ findNavController().navigate(R.id.fragmentB, bundle)
 - Evitar comunicación directa entre fragments
 - Usar Navigation Component
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

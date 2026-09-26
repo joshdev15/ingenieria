@@ -1,22 +1,22 @@
 #development #go
 
-Go es un lenguaje de proposito general con las siguientes caracteristicas:
+Go es un lenguaje de proposito general con las siguientes características:
 
 ## Características Generales
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Simplicidad** | Sintaxis clara similar a C, facil de aprender |
-| **Eficiencia** | Compilado a codigo maquina, muy rapido |
+| **Eficiencia** | Compilado a codigo máquina, muy rapido |
 | **Concurrencia** | Soporte nativo para multiples tareas |
 | **Escalabilidad** | Ideal para aplicaciones empresariales |
-| **Robustez** | Biblioteca estandar completa y comunidad activa |
+| **Robustez** | Biblioteca estándar completa y comunidad activa |
 
 ## Características Tecnicas
 
 - **Tipos Estaticos**: Lenguaje fuertemente tipado
-- **Recoleccion de Basura**: Gestion automatica de memoria
-- **Seguridad**: Comprobacion de tipos en tiempo de ejecucion
+- **Recoleccion de Basura**: Gestión automatica de memoria
+- **Seguridad**: Comprobacion de tipos en tiempo de ejecución
 
 ## Características Modernas (Go 1.18+)
 
@@ -89,4 +89,4 @@ func (s *Stack[T]) Pop() T {
 }
 ```
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

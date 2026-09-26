@@ -64,4 +64,4 @@ Product Backlog → Sprint Planning → Sprint → Daily Scrum
 | **Burndown** | Trabajo restante vs tiempo |
 | **Cycle Time** | Tiempo desde inicio hasta fin |
 
-[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|<- Volver a Gestión de Proyectos]]

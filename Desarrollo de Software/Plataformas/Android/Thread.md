@@ -102,4 +102,4 @@ Executors.newScheduledThreadPool(2).scheduleAtFixedRate({
 - ✅ Usar ExecutorService para operaciones cortas
 - ✅ Handler/Looper para comunicación con UI thread
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

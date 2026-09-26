@@ -46,6 +46,6 @@ Fase waterfall: Pruebas, Despliegue
 3. Ajustar roles según necesidad
 4. Medir resultados y adaptar
 
-[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|<- Volver a Gestión de Proyectos]]
 [[Ingeniería/Gestión de Proyectos/Metodologías/Scrum.md]]
 [[Ingeniería/Gestión de Proyectos/Metodologías/Waterfall.md]]

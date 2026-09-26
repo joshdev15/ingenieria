@@ -21,3 +21,7 @@ El operador **Sí y solo sí - ↔**: Es verdadero cuando ambas proposiciones ti
 - Está lloviendo **si y solo si** el suelo no está mojado: **Falso**
 - No está lloviendo **si y solo si** el suelo está mojado: **Falso**
 - No está lloviendo **si y solo si** el suelo no está mojado: **Verdadero**
+
+---
+
+[[Matemática/Lógica/Lógica.md|<- Volver a Lógica]]

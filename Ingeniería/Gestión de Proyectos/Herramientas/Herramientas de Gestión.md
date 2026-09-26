@@ -1,8 +1,8 @@
 #engineering #project-management #tools
 
-Las herramientas de gestion de proyectos facilitan la planificacion, seguimiento y colaboracion del equipo.
+Las herramientas de gestión de proyectos facilitan la planificacion, seguimiento y colaboracion del equipo.
 
-## Indice
+## Índice
 
 .
 ├── [[Ingeniería/Gestión de Proyectos/Herramientas/Herramientas de Gestión.md|Herramientas de Gestión.md]]
@@ -15,7 +15,7 @@ Las herramientas de gestion de proyectos facilitan la planificacion, seguimiento
 
 ## Categorias de Herramientas
 
-| Tipo | Descripcion | Ejemplos |
+| Tipo | Descripción | Ejemplos |
 |------|------------|----------|
 | **Full-featured** | Todo en uno, configurable | Jira, Asana |
 | **Simples** | Tableros visuales, minimalistas | Trello, Linear |

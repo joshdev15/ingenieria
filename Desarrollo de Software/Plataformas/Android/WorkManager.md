@@ -163,4 +163,4 @@ WorkManager.getInstance(context).cancelUniqueWork("nombre_trabajo")
 WorkManager.getInstance(context).cancelAllWork()
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

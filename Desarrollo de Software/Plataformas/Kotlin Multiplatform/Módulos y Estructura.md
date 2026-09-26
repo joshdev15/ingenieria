@@ -135,4 +135,4 @@ kotlin.native.ignoreDisabledTargets=true
 org.gradle.jvmargs=-Xmx4096m
 ```
 
-[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md]]
+[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|<- Volver a Kotlin Multiplatform]]

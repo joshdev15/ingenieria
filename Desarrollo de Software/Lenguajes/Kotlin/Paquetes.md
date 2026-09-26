@@ -65,4 +65,4 @@ src/
 │                   └── Utils.kt
 ```
 
-[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md]]
+[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|<- Volver a Kotlin]]

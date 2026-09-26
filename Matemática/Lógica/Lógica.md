@@ -4,9 +4,9 @@ La logica es una **ciencia formal** que estudia la estructura o forma del pensam
 
 La logica aplica en muchas areas de estudio como: filosofia, matematicas, ciencia, derecho, ingenieria y en la vida cotidiana.
 
-A continuacion veremos su aplicacion en las matematicas.
+A continuacion veremos su aplicación en las matematicas.
 
-## Indice
+## Índice
 
 .
 ├── [[Matemática/Lógica/Lógica.md|Lógica.md]]
@@ -17,4 +17,4 @@ A continuacion veremos su aplicacion en las matematicas.
 ├── [[Matemática/Lógica/Disyunción (O).md|Disyunción (O).md]]
 └── [[Matemática/Lógica/Negación (No).md|Negación (No).md]]
 
-[[Matemática/Lógica|<- Volver a Matemática]]
+[[Matemática/Matemática.md|<- Volver a Matemática]]

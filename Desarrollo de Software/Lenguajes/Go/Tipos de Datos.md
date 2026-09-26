@@ -30,7 +30,7 @@ Go tiene tipos de datos estrictos y bien definidos.
 
 ## Otros Tipos
 
-| Tipo | Descripcion |
+| Tipo | Descripción |
 |------|-------------|
 | `bool` | true/false |
 | `string` | Secuencia Unicode |
@@ -41,4 +41,4 @@ Go tiene tipos de datos estrictos y bien definidos.
 | `uintptr` | Puntero a direccion memoria |
 | `any` | Alias de interface{} (cualquier tipo) |
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

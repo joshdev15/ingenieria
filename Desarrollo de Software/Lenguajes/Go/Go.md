@@ -3,7 +3,7 @@ isFirst: true
 ---
 #development #language #go
 
-Go (tambien conocido como Golang) es un lenguaje de programacion creado por Google.
+Go (también conocido como Golang) es un lenguaje de programación creado por Google.
 
 ## Historia
 
@@ -15,23 +15,23 @@ Go (tambien conocido como Golang) es un lenguaje de programacion creado por Goog
 
 ## Características Principales
 
-| Característica | Descripcion |
+| Característica | Descripción |
 |----------------|-------------|
 | **Simplicidad** | Sintaxis clara similar a C |
-| **Eficiencia** | Compilado a codigo maquina |
+| **Eficiencia** | Compilado a codigo máquina |
 | **Concurrencia** | Soporte nativo con goroutines |
 | **Escalabilidad** | Ideal para aplicaciones que crecen |
-| **Robustez** | Biblioteca estandar completa |
+| **Robustez** | Biblioteca estándar completa |
 
 ## Usos Comunes
 
 - Desarrollo Web
 - Microservicios
-- CLI (Herramientas de linea de comandos)
+- CLI (Herramientas de línea de comandos)
 - Cloud Computing
 - DevOps
 
-## Indice
+## Índice
 
 .
 ├── [[Desarrollo de Software/Lenguajes/Go/Go.md|Go.md]]

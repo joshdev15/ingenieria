@@ -46,3 +46,7 @@ Resultado (2x2):
 4. **No conmutativa**: $A \cdot B \neq B \cdot A$ (en general)
 
 [[Matemática/Investigación de Operaciones/Matrices.md]]
+
+---
+
+[[Matemática/Matemática.md|<- Volver a Matemática]]

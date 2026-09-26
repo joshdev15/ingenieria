@@ -49,4 +49,4 @@ PMBOK es una guía de mejores prácticas neutral, puede combinarse con:
 - PRINCE2 (para estructura)
 - Waterfall (para proyectos tradicionales)
 
-[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md]]
+[[Ingeniería/Gestión de Proyectos/Gestión de Proyectos.md|<- Volver a Gestión de Proyectos]]

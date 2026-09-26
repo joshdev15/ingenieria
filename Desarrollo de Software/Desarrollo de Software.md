@@ -3,9 +3,9 @@ isFirst: true
 ---
 #development 
 
-Desarrollo de Software abarca los lenguajes de programacion, frameworks y tecnologias necesarias para crear aplicaciones.
+Desarrollo de Software abarca los lenguajes de programación, frameworks y tecnologias necesarias para crear aplicaciones.
 
-## Indice
+## Índice
 
 .
 ├── Lenguajes
@@ -19,4 +19,4 @@ Desarrollo de Software abarca los lenguajes de programacion, frameworks y tecnol
     ├── [[Desarrollo de Software/Plataformas/Android/Android.md|Android.md]]
     └── [[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|Kotlin Multiplatform.md]]
 
-[[README.md|<- Volver]]
+[[README.md|<- Volver al Inicio]]

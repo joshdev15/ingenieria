@@ -13,11 +13,11 @@ func main() {
 
 ## Analisis del Codigo
 
-| Linea | Descripcion |
+| Linea | Descripción |
 |-------|-------------|
 | `package main` | Declara el paquete principal |
 | `import "fmt"` | Importa el paquete fmt para formateo E/S |
 | `func main()` | Define la funcion principal |
 | `fmt.Println()` | Imprime texto en terminal |
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

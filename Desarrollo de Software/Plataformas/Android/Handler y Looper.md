@@ -91,4 +91,4 @@ Thread {
 | `runOnUiThread()` | Ejecutar en UI thread desde cualquier hilo |
 | `view.post()` | Ejecutar cuando la view esté lista |
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

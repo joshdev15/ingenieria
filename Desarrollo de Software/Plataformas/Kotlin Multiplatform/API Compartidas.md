@@ -162,4 +162,4 @@ external val console: dynamic
 actual fun log(message: String) { console.log(message) }
 ```
 
-[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md]]
+[[Desarrollo de Software/Plataformas/Kotlin Multiplatform/Kotlin Multiplatform.md|<- Volver a Kotlin Multiplatform]]

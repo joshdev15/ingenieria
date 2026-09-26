@@ -77,4 +77,4 @@ val len = nombre?.length ?: 0
 val len = nombre!!.length
 ```
 
-[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md]]
+[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|<- Volver a Kotlin]]

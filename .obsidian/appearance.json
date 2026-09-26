@@ -1,8 +1,8 @@
 {
   "accentColor": "#8066ff",
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "JetBrainsMono Nerd Font",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
   "baseFontSize": 16,
   "cssTheme": "Tokyo Night",
   "nativeMenus": true,

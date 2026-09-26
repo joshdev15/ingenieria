@@ -15,7 +15,7 @@ Kotlin puede instalarse de varias formas según el entorno de desarrollo.
 1. Android Studio ya incluye Kotlin por defecto
 2. Para verificar: **File > Settings > Plugins** > buscar "Kotlin"
 
-## Instalación独立性
+## Instalación Independiente (Standalone)
 
 ### Via SDKMAN (Linux/Mac)
 ```bash
@@ -51,4 +51,4 @@ kotlin app.jar
 | Gradle | `./gradlew build` |
 | Maven | `mvn compile` |
 
-[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md]]
+[[Desarrollo de Software/Lenguajes/Kotlin/Kotlin.md|<- Volver a Kotlin]]

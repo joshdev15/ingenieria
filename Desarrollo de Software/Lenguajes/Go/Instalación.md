@@ -11,7 +11,7 @@ Go es multiplataforma (Linux, Mac, Windows) con una instalacion sencilla.
 
 Es fundamental configurar:
 
-| Variable | Descripcion |
+| Variable | Descripción |
 |---------|-------------|
 | **GOPATH** | Ruta del espacio de trabajo |
 | **GOROOT** | Ruta donde esta instalado Go |
@@ -23,4 +23,4 @@ go version
 go env
 ```
 
-[[Desarrollo de Software/Lenguajes/Go/Go.md]]
+[[Desarrollo de Software/Lenguajes/Go/Go.md|<- Volver a Go]]

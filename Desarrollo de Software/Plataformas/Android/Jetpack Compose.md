@@ -132,4 +132,4 @@ fun Pantalla(viewModel: MiViewModel) {
 }
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

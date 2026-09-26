@@ -114,4 +114,4 @@ view.setOnClickListener { view -> /* código */ }
 view.setOnClickListener { /* código */ }
 ```
 
-[[Desarrollo de Software/Plataformas/Android/Android.md]]
+[[Desarrollo de Software/Plataformas/Android/Android.md|<- Volver a Android]]

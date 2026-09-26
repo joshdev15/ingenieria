@@ -22,3 +22,7 @@ El operador **O - OR - ∨**: Es verdadera cuando al menos una de las proposicio
 - Está lloviendo **o** el suelo no está mojado: **Verdadero**
 - No está lloviendo **o** el suelo está mojado: **Verdadero**
 - No está lloviendo **o** el suelo no está mojado: **Falso**
+
+---
+
+[[Matemática/Lógica/Lógica.md|<- Volver a Lógica]]
